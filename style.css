@@ -1,0 +1,61 @@
+.contenedor {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.espacio{
+    margin-bottom: 40px;
+}
+
+table {
+    margin-bottom: 40px; /* Ajusta el valor según el espacio deseado */
+    border-collapse: collapse; /* Opcional: quita el espacio entre bordes de las celdas */
+    background-color: white;
+    font-family: Verdana, sans-serif;
+}
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    width: 250px;
+    text-align: center;
+}
+th {
+    background-color: #f2f2f2;
+}
+
+.active {
+    font-weight: bold;
+    background-color: #e0e0e0;
+}
+
+.totalprecio{
+    font-weight: bold;
+    background-color:blueviolet;
+    border: 0px solid #dddddd;
+    color: whitesmoke;
+}
+
+.totalSemana{
+    font-weight: bold;
+    background-color:blueviolet;
+    border: 0px solid #dddddd;
+    color: whitesmoke;
+}
+
+
+.paginado{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+
+@media (max-width: 600px) {
+    .contenedor {
+        width: 100%;
+    }
+    th, td {
+        padding: 0px;
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "ZONA NORTE": [
+        {
+            "LOCALIDAD": "Del Viso",
+            "PRECIO": 8300,
+            "CORDON": 4
+        },
+        {
+            "LOCALIDAD": "Derqui",
+            "PRECIO": 8300,
+            "CORDON": 4
+        },
+        {
+            "LOCALIDAD": "Escobar",
+            "PRECIO": 8300,
+            "CORDON": 4
+        },
+        {
+            "LOCALIDAD": "General Rodriguez",
+            "PRECIO": 8300,
+            "CORDON": 4
+        },
+        {
+            "LOCALIDAD": "Ingeniero Maschwitz",
+            "PRECIO": 8300,
+            "CORDON": 4
+        },
+        {
+            "LOCALIDAD": "Lujan",
+            "PRECIO": 8300,
+            "CORDON": 4
+        },
+        {
+            "LOCALIDAD": "Nordelta",
+            "PRECIO": 8300,
+            "CORDON": 4
+        },
+        {
+            "LOCALIDAD": "Pilar",
+            "PRECIO": 8300,
+            "CORDON": 4
+        },
+        {
+            "LOCALIDAD": "Villa Rosa",
+            "PRECIO": 8300,
+            "CORDON": 4
+        },
+        {
+            "LOCALIDAD": "Garin",
+            "PRECIO": 8300,
+            "CORDON": 4
+        },
+        {
+            "LOCALIDAD": "San Fernando",
+            "PRECIO": 5105,
+            "CORDON": 2
+        },
+        {
+            "LOCALIDAD": "San Isidro",
+            "PRECIO": 5105,
+            "CORDON": 2
+        },
+        {
+            "LOCALIDAD": "San Martin",
+            "PRECIO": 3235,
+            "CORDON": 1
+        },
+        {
+            "LOCALIDAD": "Tigre",
+            "PRECIO": 6975,
+            "CORDON": 3
+        },
+        {
+            "LOCALIDAD": "Vicente Lopez",
+            "PRECIO": 5105,
+            "CORDON": 2
+        }
+    ],
+    "ZONA SUR": [
+        {
+            "LOCALIDAD": "Berisso",
+            "PRECIO": 8300,
+            "CORDON": 4
+        },
+        {
+            "LOCALIDAD": "Ca\u00c3\u00b1uelas",
+            "PRECIO": 8300,
+            "CORDON": 4
+        },
+        {
+            "LOCALIDAD": "Ensenada",
+            "PRECIO": 8300,
+            "CORDON": 4
+        },
+        {
+            "LOCALIDAD": "Guernica",
+            "PRECIO": 8300,
+            "CORDON": 4
+        },
+        {
+            "LOCALIDAD": "La Plata",
+            "PRECIO": 8300,
+            "CORDON": 4
+        },
+        {
+            "LOCALIDAD": "Almirante Brown",
+            "PRECIO": 6975,
+            "CORDON": 3
+        },
+        {
+            "LOCALIDAD": "Avellaneda",
+            "PRECIO": 6975,
+            "CORDON": 3
+        },
+        {
+            "LOCALIDAD": "Berazategui",
+            "PRECIO": 6975,
+            "CORDON": 3
+        },
+        {
+            "LOCALIDAD": "Esteban Echeverria",
+            "PRECIO": 6975,
+            "CORDON": 3
+        },
+        {
+            "LOCALIDAD": "Ezeiza",
+            "PRECIO": 6975,
+            "CORDON": 3
+        },
+        {
+            "LOCALIDAD": "Florencio Varela",
+            "PRECIO": 6975,
+            "CORDON": 3
+        },
+        {
+            "LOCALIDAD": "Lanus",
+            "PRECIO": 6975,
+            "CORDON": 3
+        },
+        {
+            "LOCALIDAD": "Lomas de Zamora",
+            "PRECIO": 6975,
+            "CORDON": 3
+        },
+        {
+            "LOCALIDAD": "Quilmes",
+            "PRECIO": 6975,
+            "CORDON": 3
+        }
+    ],
+    "ZONA OESTE": [
+        {
+            "LOCALIDAD": "Hurlingham",
+            "PRECIO": 3235,
+            "CORDON": 1
+        },
+        {
+            "LOCALIDAD": "Ituzaingo",
+            "PRECIO": 5105,
+            "CORDON": 2
+        },
+        {
+            "LOCALIDAD": "Jose C Paz",
+            "PRECIO": 6975,
+            "CORDON": 3
+        },
+        {
+            "LOCALIDAD": "La Matanza Norte",
+            "PRECIO": 5105,
+            "CORDON": 2
+        },
+        {
+            "LOCALIDAD": "La Matanza Sur",
+            "PRECIO": 6975,
+            "CORDON": 3
+        },
+        {
+            "LOCALIDAD": "Malvinas Argentinas",
+            "PRECIO": 6975,
+            "CORDON": 3
+        },
+        {
+            "LOCALIDAD": "Merlo",
+            "PRECIO": 6975,
+            "CORDON": 3
+        },
+        {
+            "LOCALIDAD": "Moreno",
+            "PRECIO": 6975,
+            "CORDON": 3
+        },
+        {
+            "LOCALIDAD": "Moron",
+            "PRECIO": 3235,
+            "CORDON": 1
+        },
+        {
+            "LOCALIDAD": "San Miguel",
+            "PRECIO": 5105,
+            "CORDON": 2
+        },
+        {
+            "LOCALIDAD": "Tres De Febrero",
+            "PRECIO": 3235,
+            "CORDON": 1
+        }
+    ]
+}
