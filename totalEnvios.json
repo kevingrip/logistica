@@ -165,7 +165,7 @@
         "Zona": "ZONA NORTE",
         "Localidad": "Tigre",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Martes",
@@ -177,7 +177,7 @@
         "Zona": "ZONA OESTE",
         "Localidad": "Merlo",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Martes",
@@ -213,7 +213,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Berazategui",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -249,7 +249,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Florencio Varela",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "S\u00e3\u00a1bado",
@@ -405,6 +405,30 @@
         "Zona": "ZONA OESTE",
         "Localidad": "Tres De Febrero",
         "Precio": 3785,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 33,
+        "Fecha": "16/08/2024",
+        "Envio": "FIGUS",
+        "Zona": "ZONA SUR",
+        "Localidad": "Lanus",
+        "Precio": 6975,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 33,
+        "Fecha": "16/08/2024",
+        "Envio": "FIGUS",
+        "Zona": "ZONA OESTE",
+        "Localidad": "Moron",
+        "Precio": 3235,
         "Pagado": "NO"
     }
 ]
