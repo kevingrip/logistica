@@ -120,9 +120,9 @@ document.addEventListener('DOMContentLoaded', function(){
             date.textContent= dato.Fecha
             fila.appendChild(date);
 
-            const empresa = document.createElement('td')
-            empresa.textContent= dato.Envio
-            fila.appendChild(empresa);
+            const cliente = document.createElement('td')
+            cliente.textContent= dato.Cliente
+            fila.appendChild(cliente);
 
             const partido = document.createElement('td')
             partido.textContent= dato.Localidad

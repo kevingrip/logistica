@@ -309,7 +309,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 5105,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -321,7 +321,7 @@
         "Zona": "ZONA NORTE",
         "Localidad": "Escobar",
         "Precio": 8300,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -333,7 +333,7 @@
         "Zona": "ZONA NORTE",
         "Localidad": "Tigre",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Martes",
@@ -357,7 +357,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Lomas de Zamora",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -369,7 +369,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 5105,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -378,6 +378,7 @@
         "Semana": 33,
         "Fecha": "14/08/2024",
         "Envio": "PLEX",
+        "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 6000,
@@ -390,6 +391,7 @@
         "Semana": 33,
         "Fecha": "14/08/2024",
         "Envio": "PLEX",
+        "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 6000,
@@ -402,9 +404,88 @@
         "Semana": 33,
         "Fecha": "14/08/2024",
         "Envio": "PLEX",
+        "Cliente": "FIGUS",
         "Zona": "ZONA OESTE",
         "Localidad": "Tres De Febrero",
         "Precio": 3785,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 33,
+        "Fecha": "15/08/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "Precio": 6000,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 33,
+        "Fecha": "15/08/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "Precio": 6000,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 33,
+        "Fecha": "16/08/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "Precio": 6000,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 33,
+        "Fecha": "16/08/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "Precio": 6000,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 33,
+        "Fecha": "16/08/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "Precio": 6000,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 33,
+        "Fecha": "16/08/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "Precio": 6000,
         "Pagado": "NO"
     },
     {
@@ -417,7 +498,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Lanus",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -429,6 +510,68 @@
         "Zona": "ZONA OESTE",
         "Localidad": "Moron",
         "Precio": 3235,
+        "Pagado": "SI"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 34,
+        "Fecha": "19/08/2024",
+        "Envio": "NP",
+        "Zona": "ZONA SUR",
+        "Localidad": "Avellaneda",
+        "Precio": 6975,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 34,
+        "Fecha": "19/08/2024",
+        "Envio": "NP",
+        "Zona": "ZONA OESTE",
+        "Localidad": "Merlo",
+        "Precio": 6975,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 34,
+        "Fecha": "19/08/2024",
+        "Envio": "NP",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Escobar",
+        "Precio": 8300,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 34,
+        "Fecha": "19/08/2024",
+        "Envio": "PLEX",
+        "Cliente": "ROPA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "Precio": 6000,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 34,
+        "Fecha": "19/08/2024",
+        "Envio": "PLEX",
+        "Cliente": "ROPA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "Precio": 6000,
         "Pagado": "NO"
     }
 ]

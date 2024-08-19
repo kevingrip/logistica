@@ -58,13 +58,17 @@ def nuevoViaje ():
                     precio = item["PRECIO"]
 
         if canalVenta=="PLEX":
+            cliente = easygui.buttonbox(choices=["FIGUS","DVR","ROPA","MOTOS","CHAPA"])
             if localidadDefinida in ("CABA","San Miguel"): 
                 precio=6000
             elif localidadDefinida in ("Tres De Febrero"):
                 precio=3785
+        
+        if canalVenta=="NP":
+            cliente = easygui.buttonbox(choices=["DVR","ROPA","MOTOS","CHAPA"])
 
         if localidadDefinida:
-            agregarEnvio = {"Dia":fechaDia[1].capitalize(),"Mes":mes,"Year":year,"Semana":semana,"Fecha":fechaDia[0],"Envio":canalVenta,"Zona":zonaDefinida,"Localidad":localidadDefinida,"Precio":precio,"Pagado":"NO"}
+            agregarEnvio = {"Dia":fechaDia[1].capitalize(),"Mes":mes,"Year":year,"Semana":semana,"Fecha":fechaDia[0],"Envio":canalVenta,"Cliente":cliente,"Zona":zonaDefinida,"Localidad":localidadDefinida,"Precio":precio,"Pagado":"NO"}
             with open ("totalEnvios.json","r", encoding="utf-8") as tenv:
                 totalEnv = json.load(tenv)
 
