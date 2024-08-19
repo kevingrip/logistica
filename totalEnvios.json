@@ -382,7 +382,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 6000,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -395,7 +395,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 6000,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -408,7 +408,7 @@
         "Zona": "ZONA OESTE",
         "Localidad": "Tres De Febrero",
         "Precio": 3785,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -421,7 +421,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 6000,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -434,7 +434,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 6000,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -447,7 +447,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 6000,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -460,7 +460,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 6000,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -473,7 +473,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 6000,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -486,7 +486,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 6000,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Viernes",
