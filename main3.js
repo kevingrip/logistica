@@ -134,6 +134,7 @@ document.addEventListener('DOMContentLoaded', function(){
             
             if (dato.Pagado === 'SI'){
                 totalPrecio.style.backgroundColor = '#39ff14';
+                totalPrecio.style.color = '#000000';
             }
         
 
