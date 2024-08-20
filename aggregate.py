@@ -59,10 +59,14 @@ def nuevoViaje ():
 
         if canalVenta=="PLEX":
             cliente = easygui.buttonbox(choices=["FIGUS","DVR","ROPA","MOTOS","CHAPA"])
-            if localidadDefinida in ("CABA","San Miguel"): 
-                precio=6000
-            elif localidadDefinida in ("Tres De Febrero"):
-                precio=3785
+            if cliente == "FIGUS":
+                if localidadDefinida in ("CABA","San Miguel"): 
+                    precio=4565
+            else: 
+                if localidadDefinida in ("CABA","San Miguel"): 
+                    precio=6000
+                elif localidadDefinida in ("Tres De Febrero"):
+                    precio=3785
         
         if canalVenta=="NP":
             cliente = easygui.buttonbox(choices=["DVR","ROPA","MOTOS","CHAPA"])
