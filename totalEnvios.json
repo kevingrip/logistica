@@ -573,5 +573,70 @@
         "Localidad": "CABA",
         "Precio": 6000,
         "Pagado": "NO"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 34,
+        "Fecha": "20/08/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "Precio": 6000,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 34,
+        "Fecha": "20/08/2024",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "Precio": 5105,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 34,
+        "Fecha": "20/08/2024",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA SUR",
+        "Localidad": "Lanus",
+        "Precio": 6975,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 34,
+        "Fecha": "20/08/2024",
+        "Envio": "FIGUS",
+        "Cliente": "DVR",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Escobar",
+        "Precio": 8300,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 34,
+        "Fecha": "20/08/2024",
+        "Envio": "FIGUS",
+        "Cliente": "DVR",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Nordelta",
+        "Precio": 8300,
+        "Pagado": "NO"
     }
 ]
