@@ -32,6 +32,9 @@ def nuevoViaje ():
 
         canalVenta = easygui.buttonbox(fechaDia[1]+' '+fechaDia[0]+": Ingresa empresa",choices=["NP","FIGUS","PLEX"])
 
+        if canalVenta=="FIGUS":
+            cliente="FIGUS"
+
         if 'rcoles' in fechaDia[1]:
             print("pasa")
             fechaDia[1]='miercoles'

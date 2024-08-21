@@ -43,6 +43,14 @@ th {
     color: whitesmoke;
 }
 
+.centrado{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100px;
+}
+
 
 .paginado{
     display: flex;
