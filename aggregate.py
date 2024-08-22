@@ -64,10 +64,10 @@ def nuevoViaje ():
             cliente = easygui.buttonbox(choices=["FIGUS","DVR","ROPA","MOTOS","CHAPA"])
             if cliente == "FIGUS":
                 if localidadDefinida in ("CABA","San Miguel"): 
-                    precio=4565
+                    precio=6000
             else: 
                 if localidadDefinida in ("CABA","San Miguel"): 
-                    precio=6000
+                    precio=4565
                 elif localidadDefinida in ("Tres De Febrero"):
                     precio=3785
         
