@@ -654,5 +654,70 @@
         "Localidad": "Vicente Lopez",
         "Precio": 5105,
         "Pagado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 34,
+        "Fecha": "22/08/2024",
+        "Envio": "FIGUS",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA NORTE",
+        "Localidad": "San Martin",
+        "Precio": 3235,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 34,
+        "Fecha": "22/08/2024",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA SUR",
+        "Localidad": "Ensenada",
+        "Precio": 8300,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 34,
+        "Fecha": "22/08/2024",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA SUR",
+        "Localidad": "Esteban Echeverria",
+        "Precio": 6975,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 34,
+        "Fecha": "22/08/2024",
+        "Envio": "NP",
+        "Cliente": "CHAPA",
+        "Zona": "ZONA SUR",
+        "Localidad": "Berazategui",
+        "Precio": 6975,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 34,
+        "Fecha": "22/08/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "Precio": 6000,
+        "Pagado": "NO"
     }
 ]
