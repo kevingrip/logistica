@@ -719,5 +719,44 @@
         "Localidad": "CABA",
         "Precio": 6000,
         "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 34,
+        "Fecha": "23/08/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "Precio": 6000,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 34,
+        "Fecha": "23/08/2024",
+        "Envio": "FIGUS",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Pilar",
+        "Precio": 8300,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 34,
+        "Fecha": "23/08/2024",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA SUR",
+        "Localidad": "Almirante Brown",
+        "Precio": 6975,
+        "Pagado": "NO"
     }
 ]
