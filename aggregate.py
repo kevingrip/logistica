@@ -30,10 +30,10 @@ def nuevoViaje ():
 
         print(mes,year)
 
-        canalVenta = easygui.buttonbox(fechaDia[1]+' '+fechaDia[0]+": Ingresa empresa",choices=["NP","FIGUS","PLEX"])
+        canalVenta = easygui.buttonbox(fechaDia[1]+' '+fechaDia[0]+": Ingresa empresa",choices=["NP","NUESTRO","PLEX"])
 
-        if canalVenta=="FIGUS":
-            cliente="FIGUS"
+        if canalVenta=="NUESTRO":
+            cliente=easygui.buttonbox(choices=["FIGUS","MOTOS"])
 
         if 'rcoles' in fechaDia[1]:
             print("pasa")
@@ -61,7 +61,7 @@ def nuevoViaje ():
                     precio = item["PRECIO"]
 
         if canalVenta=="PLEX":
-            cliente = easygui.buttonbox(choices=["FIGUS","DVR","ROPA","MOTOS","CHAPA"])
+            cliente = easygui.buttonbox(choices=["FIGUS","DVR","ROPA","CHAPA"])
             if cliente == "FIGUS":
                 if localidadDefinida in ("CABA","San Miguel"): 
                     precio=6000

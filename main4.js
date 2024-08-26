@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function(){
         function actualizarSemana(){
             nroSemana.textContent = semanaSeleccionada
             mostrarDatos(data,'NP','renderNP',semanaSeleccionada);
-            mostrarDatos(data,'FIGUS','renderNOS',semanaSeleccionada);      
+            mostrarDatos(data,'NUESTRO','renderNOS',semanaSeleccionada);      
             if (semanaMax > semanaSeleccionada ) {
                 btnSig.style.visibility = 'visible';
             } else {
@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', function(){
         console.log("Semanas disponibles:", semanasDisponibles);
 
         mostrarDatos(data,'NP','renderNP',semanaSeleccionada);
-        mostrarDatos(data,'FIGUS','renderNOS',semanaSeleccionada);    
+        mostrarDatos(data,'NUESTRO','renderNOS',semanaSeleccionada);    
     
     
 
@@ -158,7 +158,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         botonSemanaDisponible(data);
         mostrarDatos(data,'NP','renderNP',semanaSeleccionada);
-        mostrarDatos(data,'FIGUS','renderNOS',semanaSeleccionada);            
+        mostrarDatos(data,'NUESTRO','renderNOS',semanaSeleccionada);            
                     
     })
     .catch(error => console.error('Error al cargar el archivo JSON', error))
