@@ -562,7 +562,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 0,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -575,7 +575,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 0,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Martes",
@@ -588,7 +588,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 6000,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Martes",
@@ -718,7 +718,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 6000,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -731,7 +731,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 6000,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -797,5 +797,31 @@
         "Localidad": "La Matanza Sur",
         "Precio": 6975,
         "Pagado": "SI"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 35,
+        "Fecha": "27/08/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA SUR",
+        "Localidad": "Almirante Brown",
+        "Precio": 6975,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 35,
+        "Fecha": "27/08/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Escobar",
+        "Precio": 8300,
+        "Pagado": "NO"
     }
 ]
