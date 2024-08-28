@@ -8,7 +8,7 @@ def complete():
 
     distinctSemana = []
 
-    empresa = easygui.buttonbox("Ingrese Empresa", choices=["NP","NUESTRO","PLEX"])
+    empresa = easygui.buttonbox("Ingrese Empresa", choices=["NP","NUESTRO","PLEX","DVR"])
 
 
     for x in totalEnv:
@@ -18,7 +18,7 @@ def complete():
     semana = easygui.buttonbox("Ingrese Semana", choices=distinctSemana)
 
     for x in totalEnv:
-        if x["Envio"] == empresa and x['Semana'] == int(semana) and x["Pagado"] == "NO":
+        if ((x["Envio"] == empresa) or (x["Cliente"] == empresa)) and x['Semana'] == int(semana) and x["Pagado"] == "NO":
             x["Pagado"] = "SI"
             print(x)
 
