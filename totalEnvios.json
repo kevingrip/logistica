@@ -895,5 +895,44 @@
         "Localidad": "Pilar",
         "Precio": 8300,
         "Pagado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 35,
+        "Fecha": "29/08/2024",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Tigre",
+        "Precio": 6975,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 35,
+        "Fecha": "29/08/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA SUR",
+        "Localidad": "Berazategui",
+        "Precio": 6975,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 35,
+        "Fecha": "29/08/2024",
+        "Envio": "KEVIN",
+        "Cliente": "DVR",
+        "Zona": "ZONA OESTE",
+        "Localidad": "San Miguel",
+        "Precio": 5105,
+        "Pagado": "NO"
     }
 ]
