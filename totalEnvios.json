@@ -934,5 +934,44 @@
         "Localidad": "San Miguel",
         "Precio": 5105,
         "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 35,
+        "Fecha": "30/08/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Malvinas Argentinas",
+        "Precio": 5105,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 35,
+        "Fecha": "30/08/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA OESTE",
+        "Localidad": "Ituzaingo",
+        "Precio": 5105,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 35,
+        "Fecha": "30/08/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA SUR",
+        "Localidad": "Lomas de Zamora",
+        "Precio": 6975,
+        "Pagado": "NO"
     }
 ]

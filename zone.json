@@ -1,5 +1,10 @@
 {
-    "ZONA NORTE": [
+    "ZONA NORTE": [        
+        {
+            "LOCALIDAD": "Malvinas Argentinas",
+            "PRECIO": 5105,
+            "CORDON": 3
+        },
         {
             "LOCALIDAD": "Del Viso",
             "PRECIO": 8300,
@@ -171,11 +176,6 @@
         },
         {
             "LOCALIDAD": "La Matanza Sur",
-            "PRECIO": 6975,
-            "CORDON": 3
-        },
-        {
-            "LOCALIDAD": "Malvinas Argentinas",
             "PRECIO": 6975,
             "CORDON": 3
         },
