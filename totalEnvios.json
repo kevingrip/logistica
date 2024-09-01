@@ -569,7 +569,7 @@
         "Zona": "ZONA OESTE",
         "Localidad": "Merlo",
         "Precio": 6975,
-        "Pagado": "SI"
+        "Pagado": "NO"
     },
     {
         "Dia": "Lunes",
@@ -634,7 +634,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 5105,
-        "Pagado": "SI"
+        "Pagado": "NO"
     },
     {
         "Dia": "Martes",
@@ -647,7 +647,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Lanus",
         "Precio": 6975,
-        "Pagado": "SI"
+        "Pagado": "NO"
     },
     {
         "Dia": "Martes",
@@ -712,7 +712,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Ensenada",
         "Precio": 8300,
-        "Pagado": "SI"
+        "Pagado": "NO"
     },
     {
         "Dia": "Jueves",
@@ -725,7 +725,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Esteban Echeverria",
         "Precio": 6975,
-        "Pagado": "SI"
+        "Pagado": "NO"
     },
     {
         "Dia": "Jueves",
@@ -790,7 +790,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Almirante Brown",
         "Precio": 6975,
-        "Pagado": "SI"
+        "Pagado": "NO"
     },
     {
         "Dia": "Lunes",
@@ -972,6 +972,45 @@
         "Zona": "ZONA SUR",
         "Localidad": "Lomas de Zamora",
         "Precio": 6975,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "S\u00e3\u00a1bado",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 35,
+        "Fecha": "31/08/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Escobar",
+        "Precio": 8300,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "S\u00e3\u00a1bado",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 35,
+        "Fecha": "31/08/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "MOTOS",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Malvinas Argentinas",
+        "Precio": 5105,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "S\u00e3\u00a1bado",
+        "Mes": "08",
+        "Year": "2024",
+        "Semana": 35,
+        "Fecha": "31/08/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "Precio": 6000,
         "Pagado": "NO"
     }
 ]
