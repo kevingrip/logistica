@@ -803,7 +803,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "La Plata",
         "Precio": 8300,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -868,7 +868,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Almirante Brown",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -881,7 +881,7 @@
         "Zona": "ZONA OESTE",
         "Localidad": "San Miguel",
         "Precio": 5105,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -907,7 +907,7 @@
         "Zona": "ZONA NORTE",
         "Localidad": "Tigre",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -933,7 +933,7 @@
         "Zona": "ZONA OESTE",
         "Localidad": "San Miguel",
         "Precio": 5105,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Viernes",
