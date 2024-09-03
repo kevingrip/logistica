@@ -1011,7 +1011,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 6000,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Lunes",
