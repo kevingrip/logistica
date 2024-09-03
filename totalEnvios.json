@@ -556,7 +556,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Avellaneda",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -569,7 +569,7 @@
         "Zona": "ZONA OESTE",
         "Localidad": "Merlo",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -582,7 +582,7 @@
         "Zona": "ZONA NORTE",
         "Localidad": "Escobar",
         "Precio": 8300,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -634,7 +634,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 5105,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Martes",
@@ -647,7 +647,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Lanus",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Martes",
@@ -712,7 +712,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Ensenada",
         "Precio": 8300,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -725,7 +725,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Esteban Echeverria",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -738,7 +738,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Berazategui",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -790,7 +790,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Almirante Brown",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -816,7 +816,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Avellaneda",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "S\u00e3\u00a1bado",
@@ -842,7 +842,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Almirante Brown",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Martes",
@@ -855,7 +855,7 @@
         "Zona": "ZONA NORTE",
         "Localidad": "Escobar",
         "Precio": 8300,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -894,7 +894,7 @@
         "Zona": "ZONA NORTE",
         "Localidad": "Pilar",
         "Precio": 8300,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -920,7 +920,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Berazategui",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -946,7 +946,7 @@
         "Zona": "ZONA NORTE",
         "Localidad": "Malvinas Argentinas",
         "Precio": 5105,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -959,7 +959,7 @@
         "Zona": "ZONA OESTE",
         "Localidad": "Ituzaingo",
         "Precio": 5105,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -972,7 +972,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Lomas de Zamora",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "S\u00e3\u00a1bado",
@@ -985,7 +985,7 @@
         "Zona": "ZONA NORTE",
         "Localidad": "Escobar",
         "Precio": 8300,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "S\u00e3\u00a1bado",
@@ -998,7 +998,7 @@
         "Zona": "ZONA NORTE",
         "Localidad": "Malvinas Argentinas",
         "Precio": 5105,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "S\u00e3\u00a1bado",
@@ -1011,6 +1011,32 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 6000,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 36,
+        "Fecha": "02/09/2024",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA SUR",
+        "Localidad": "Berazategui",
+        "Precio": 6975,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 36,
+        "Fecha": "02/09/2024",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA SUR",
+        "Localidad": "Lanus",
+        "Precio": 6975,
         "Pagado": "NO"
     }
 ]
