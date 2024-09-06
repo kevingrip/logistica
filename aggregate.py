@@ -33,7 +33,7 @@ def nuevoViaje ():
         canalVenta = easygui.buttonbox(fechaDia[1]+' '+fechaDia[0]+": Ingresa empresa",choices=["NP","NUESTRO","PLEX","MATI","KEVIN"])
 
         if canalVenta=="NUESTRO":
-            cliente=easygui.buttonbox(choices=["FIGUS","MOTOS"])
+            cliente=easygui.buttonbox(choices=["FIGUS","MOTO"])
 
         if 'rcoles' in fechaDia[1]:
             print("pasa")
@@ -72,7 +72,7 @@ def nuevoViaje ():
                     precio=3785
         
         if canalVenta=="NP":
-            cliente = easygui.buttonbox(choices=["DVR","ROPA","MOTOS","CHAPA"])
+            cliente = easygui.buttonbox(choices=["DVR","ROPA","MOTO","CHAPA"])
 
         if localidadDefinida:
             agregarEnvio = {"Dia":fechaDia[1].capitalize(),"Mes":mes,"Year":year,"Semana":semana,"Fecha":fechaDia[0],"Envio":canalVenta,"Cliente":cliente,"Zona":zonaDefinida,"Localidad":localidadDefinida,"Precio":precio,"Pagado":"NO"}

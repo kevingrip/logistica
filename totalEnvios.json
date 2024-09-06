@@ -1103,5 +1103,31 @@
         "Localidad": "CABA",
         "Precio": 6000,
         "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 36,
+        "Fecha": "06/09/2024",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA OESTE",
+        "Localidad": "Merlo",
+        "Precio": 6975,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 36,
+        "Fecha": "06/09/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "MOTO",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Tigre",
+        "Precio": 6975,
+        "Pagado": "NO"
     }
 ]
