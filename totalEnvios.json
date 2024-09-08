@@ -1129,5 +1129,31 @@
         "Localidad": "Tigre",
         "Precio": 6975,
         "Pagado": "NO"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 36,
+        "Fecha": "07/09/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA OESTE",
+        "Localidad": "San Miguel",
+        "Precio": 5105,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 36,
+        "Fecha": "07/09/2024",
+        "Envio": "PLEX",
+        "Cliente": "MOTO",
+        "Zona": "ZONA NORTE",
+        "Localidad": "San Martin",
+        "Precio": 3785,
+        "Pagado": "NO"
     }
 ]
