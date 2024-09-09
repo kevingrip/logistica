@@ -1076,7 +1076,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "La Plata",
         "Precio": 8300,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -1123,12 +1123,25 @@
         "Year": "2024",
         "Semana": 36,
         "Fecha": "06/09/2024",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA OESTE",
+        "Localidad": "Vicente Lopez",
+        "Precio": 5105,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 36,
+        "Fecha": "06/09/2024",
         "Envio": "NUESTRO",
         "Cliente": "MOTO",
         "Zona": "ZONA NORTE",
         "Localidad": "Tigre",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Sabado",
@@ -1141,7 +1154,7 @@
         "Zona": "ZONA OESTE",
         "Localidad": "San Miguel",
         "Precio": 5105,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Sabado",
@@ -1154,6 +1167,45 @@
         "Zona": "ZONA NORTE",
         "Localidad": "San Martin",
         "Precio": 3785,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 37,
+        "Fecha": "09/09/2024",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA SUR",
+        "Localidad": "Avellaneda",
+        "Precio": 6975,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 37,
+        "Fecha": "09/09/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Vicente Lopez",
+        "Precio": 5105,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 37,
+        "Fecha": "09/09/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "Precio": 6000,
         "Pagado": "NO"
     }
 ]
