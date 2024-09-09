@@ -1050,7 +1050,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 6000,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -1102,7 +1102,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 6000,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -1123,7 +1123,7 @@
         "Year": "2024",
         "Semana": 36,
         "Fecha": "06/09/2024",
-        "Envio": "NP",
+        "Envio": "MATI",
         "Cliente": "DVR",
         "Zona": "ZONA OESTE",
         "Localidad": "Vicente Lopez",
@@ -1167,7 +1167,7 @@
         "Zona": "ZONA NORTE",
         "Localidad": "San Martin",
         "Precio": 3785,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -1205,7 +1205,7 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6000,
+        "Precio": 0,
         "Pagado": "NO"
     }
 ]
