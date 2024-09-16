@@ -1024,7 +1024,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Berazategui",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -1037,7 +1037,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Lanus",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Martes",
@@ -1063,7 +1063,7 @@
         "Zona": "ZONA OESTE",
         "Localidad": "Moreno",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -1089,7 +1089,7 @@
         "Zona": "ZONA OESTE",
         "Localidad": "Merlo",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -1115,7 +1115,7 @@
         "Zona": "ZONA OESTE",
         "Localidad": "Merlo",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -1193,7 +1193,7 @@
         "Zona": "ZONA NORTE",
         "Localidad": "Vicente Lopez",
         "Precio": 5105,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -1219,6 +1219,136 @@
         "Zona": "ZONA SUR",
         "Localidad": "Berazategui",
         "Precio": 8300,
+        "Pagado": "SI"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 37,
+        "Fecha": "11/09/2024",
+        "Envio": "PLEX",
+        "Cliente": "DVR",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "Precio": 6023,
         "Pagado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 37,
+        "Fecha": "11/09/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "Precio": 6000,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 37,
+        "Fecha": "13/09/2024",
+        "Envio": "NP",
+        "Cliente": "CHAPA",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Pilar",
+        "Precio": 8300,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 37,
+        "Fecha": "13/09/2024",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA OESTE",
+        "Localidad": "Merlo",
+        "Precio": 6975,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 37,
+        "Fecha": "13/09/2024",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Malvinas Argentinas",
+        "Precio": 6024,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 37,
+        "Fecha": "13/09/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA SUR",
+        "Localidad": "Ezeiza",
+        "Precio": 8300,
+        "Pagado": "SI"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 37,
+        "Fecha": "13/09/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "Precio": 6000,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 37,
+        "Fecha": "13/09/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "Precio": 6000,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 37,
+        "Fecha": "12/09/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "MOTO",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Lujan",
+        "Precio": 8500,
+        "Pagado": "SI"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 37,
+        "Fecha": "14/09/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "MOTO",
+        "Zona": "ZONA NORTE",
+        "Localidad": "San Martin",
+        "Precio": 3235,
+        "Pagado": "SI"
     }
 ]

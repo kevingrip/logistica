@@ -1,8 +1,8 @@
 {
-    "ZONA NORTE": [        
+    "ZONA NORTE": [
         {
             "LOCALIDAD": "Malvinas Argentinas",
-            "PRECIO": 5105,
+            "PRECIO": 8300,
             "CORDON": 3
         },
         {
@@ -57,12 +57,12 @@
         },
         {
             "LOCALIDAD": "San Fernando",
-            "PRECIO": 5105,
+            "PRECIO": 6024,
             "CORDON": 2
         },
         {
             "LOCALIDAD": "San Isidro",
-            "PRECIO": 5105,
+            "PRECIO": 6024,
             "CORDON": 2
         },
         {
@@ -77,7 +77,7 @@
         },
         {
             "LOCALIDAD": "Vicente Lopez",
-            "PRECIO": 5105,
+            "PRECIO": 6024,
             "CORDON": 2
         }
     ],
@@ -109,7 +109,7 @@
         },
         {
             "LOCALIDAD": "Almirante Brown",
-            "PRECIO": 6975,
+            "PRECIO": 8300,
             "CORDON": 3
         },
         {
@@ -119,22 +119,22 @@
         },
         {
             "LOCALIDAD": "Berazategui",
-            "PRECIO": 6975,
+            "PRECIO": 8300,
             "CORDON": 3
         },
         {
             "LOCALIDAD": "Esteban Echeverria",
-            "PRECIO": 6975,
+            "PRECIO": 8300,
             "CORDON": 3
         },
         {
             "LOCALIDAD": "Ezeiza",
-            "PRECIO": 6975,
+            "PRECIO": 8300,
             "CORDON": 3
         },
         {
             "LOCALIDAD": "Florencio Varela",
-            "PRECIO": 6975,
+            "PRECIO": 8300,
             "CORDON": 3
         },
         {
@@ -156,12 +156,12 @@
     "ZONA OESTE": [
         {
             "LOCALIDAD": "Hurlingham",
-            "PRECIO": 3235,
+            "PRECIO": 3785,
             "CORDON": 1
         },
         {
             "LOCALIDAD": "Ituzaingo",
-            "PRECIO": 5105,
+            "PRECIO": 6024,
             "CORDON": 2
         },
         {
@@ -171,7 +171,7 @@
         },
         {
             "LOCALIDAD": "La Matanza Norte",
-            "PRECIO": 5105,
+            "PRECIO": 6024,
             "CORDON": 2
         },
         {
@@ -191,17 +191,17 @@
         },
         {
             "LOCALIDAD": "Moron",
-            "PRECIO": 3235,
+            "PRECIO": 3785,
             "CORDON": 1
         },
         {
             "LOCALIDAD": "San Miguel",
-            "PRECIO": 5105,
+            "PRECIO": 6024,
             "CORDON": 2
         },
         {
             "LOCALIDAD": "Tres De Febrero",
-            "PRECIO": 3235,
+            "PRECIO": 3785,
             "CORDON": 1
         }
     ]
