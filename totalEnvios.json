@@ -1180,7 +1180,7 @@
         "Zona": "ZONA SUR",
         "Localidad": "Avellaneda",
         "Precio": 6975,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -1206,7 +1206,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 0,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Martes",
@@ -1232,7 +1232,7 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "Precio": 6023,
-        "Pagado": "NO"
+        "Pagado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -1244,8 +1244,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6000,
-        "Pagado": "NO"
+        "Precio": 6500,
+        "Pagado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -1270,8 +1270,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA OESTE",
         "Localidad": "Merlo",
-        "Precio": 6975,
-        "Pagado": "NO"
+        "Precio": 8300,
+        "Pagado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -1283,8 +1283,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA NORTE",
         "Localidad": "Malvinas Argentinas",
-        "Precio": 6024,
-        "Pagado": "NO"
+        "Precio": 8300,
+        "Pagado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -1309,8 +1309,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6000,
-        "Pagado": "NO"
+        "Precio": 6500,
+        "Pagado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -1322,8 +1322,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6000,
-        "Pagado": "NO"
+        "Precio": 6500,
+        "Pagado": "SI"
     },
     {
         "Dia": "Jueves",
