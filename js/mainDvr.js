@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function(){
-    var archivoJson = 'totalEnvios.json';
+    var archivoJson = '../totalEnvios.json';
 
 
     function botonSemanaDisponible(data){
@@ -20,8 +20,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         function actualizarSemana(){
             nroSemana.textContent = semanaSeleccionada
-            mostrarDatos(data,'NP','renderNP',semanaSeleccionada);
-            mostrarDatos(data,'NUESTRO','renderNOS',semanaSeleccionada);      
+            mostrarDatos(data,'DVR','renderDVR',semanaSeleccionada);
             if (semanaMax > semanaSeleccionada ) {
                 btnSig.style.visibility = 'visible';
             } else {
@@ -65,10 +64,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         console.log("Semanas disponibles:", semanasDisponibles);
 
-        mostrarDatos(data,'NP','renderNP',semanaSeleccionada);
-        mostrarDatos(data,'NUESTRO','renderNOS',semanaSeleccionada);    
-    
-    
+        mostrarDatos(data,'DVR','renderDVR',semanaSeleccionada);    
 
     }
     
@@ -78,12 +74,12 @@ document.addEventListener('DOMContentLoaded', function(){
 
         datosTabla.innerHTML='';
 
-        let datosFiltrados = datos.filter(empresa => empresa.Envio === env)
+        let datosFiltrados = datos.filter(empresa => empresa.Cliente === env)
 
         datosFiltrados = datosFiltrados.filter(dato => dato.Semana === semanaSeleccionada);
 
         const totalSuma = datosFiltrados.reduce((total, dato) => {
-            return total + dato.Precio;
+            return total + dato.PrecioCobrar;
         }, 0);
 
         const totalPrecio = document.createElement('td')
@@ -124,16 +120,16 @@ document.addEventListener('DOMContentLoaded', function(){
             date.textContent= dato.Fecha
             fila.appendChild(date);
 
-            const empresa = document.createElement('td')
-            empresa.textContent= dato.Envio
-            fila.appendChild(empresa);
+            const cliente = document.createElement('td')
+            cliente.textContent= dato.Cliente
+            fila.appendChild(cliente);
 
             const partido = document.createElement('td')
             partido.textContent= dato.Localidad
             fila.appendChild(partido)
 
             const precioEnvio = document.createElement('td')
-            precioEnvio.textContent= `$ ${dato.Precio}`
+            precioEnvio.textContent= `$ ${dato.PrecioCobrar}`
             fila.appendChild(precioEnvio)         
             
             if (dato.Pagado === 'SI'){
@@ -157,8 +153,7 @@ document.addEventListener('DOMContentLoaded', function(){
     .then(data => {
 
         botonSemanaDisponible(data);
-        mostrarDatos(data,'NP','renderNP',semanaSeleccionada);
-        mostrarDatos(data,'NUESTRO','renderNOS',semanaSeleccionada);            
+        mostrarDatos(data,'DVR','renderDVR',semanaSeleccionada);
                     
     })
     .catch(error => console.error('Error al cargar el archivo JSON', error))

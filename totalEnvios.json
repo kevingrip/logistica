@@ -9,7 +9,8 @@
         "Cliente": "",
         "Zona": "ZONA SUR",
         "Localidad": "Lanus",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -22,7 +23,8 @@
         "Cliente": "",
         "Zona": "ZONA SUR",
         "Localidad": "La Plata",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -35,7 +37,8 @@
         "Cliente": "",
         "Zona": "ZONA SUR",
         "Localidad": "Quilmes",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -48,7 +51,8 @@
         "Cliente": "",
         "Zona": "ZONA OESTE",
         "Localidad": "Moreno",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "NO"
     },
     {
@@ -61,7 +65,8 @@
         "Cliente": "",
         "Zona": "ZONA NORTE",
         "Localidad": "Tigre",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -74,7 +79,8 @@
         "Cliente": "",
         "Zona": "ZONA OESTE",
         "Localidad": "Moron",
-        "Precio": 3235,
+        "PrecioPagar": 3235,
+        "PrecioCobrar": 3235,
         "Pagado": "SI"
     },
     {
@@ -87,7 +93,8 @@
         "Cliente": "",
         "Zona": "ZONA OESTE",
         "Localidad": "La Matanza Sur",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "NO"
     },
     {
@@ -100,7 +107,8 @@
         "Cliente": "",
         "Zona": "ZONA NORTE",
         "Localidad": "Del Viso",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "NO"
     },
     {
@@ -113,7 +121,8 @@
         "Cliente": "",
         "Zona": "ZONA NORTE",
         "Localidad": "Villa Rosa",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "NO"
     },
     {
@@ -126,7 +135,8 @@
         "Cliente": "",
         "Zona": "ZONA NORTE",
         "Localidad": "Nordelta",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "NO"
     },
     {
@@ -139,7 +149,8 @@
         "Cliente": "",
         "Zona": "ZONA SUR",
         "Localidad": "Florencio Varela",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -152,7 +163,8 @@
         "Cliente": "",
         "Zona": "ZONA NORTE",
         "Localidad": "San Fernando",
-        "Precio": 5105,
+        "PrecioPagar": 5105,
+        "PrecioCobrar": 5105,
         "Pagado": "SI"
     },
     {
@@ -165,7 +177,8 @@
         "Cliente": "",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 5105,
+        "PrecioPagar": 5105,
+        "PrecioCobrar": 5105,
         "Pagado": "SI"
     },
     {
@@ -178,7 +191,8 @@
         "Cliente": "",
         "Zona": "ZONA NORTE",
         "Localidad": "Tigre",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -191,7 +205,8 @@
         "Cliente": "",
         "Zona": "ZONA OESTE",
         "Localidad": "Merlo",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -204,7 +219,8 @@
         "Cliente": "",
         "Zona": "ZONA NORTE",
         "Localidad": "Tigre",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -217,7 +233,8 @@
         "Cliente": "",
         "Zona": "ZONA NORTE",
         "Localidad": "Vicente Lopez",
-        "Precio": 5105,
+        "PrecioPagar": 5105,
+        "PrecioCobrar": 5105,
         "Pagado": "SI"
     },
     {
@@ -230,7 +247,8 @@
         "Cliente": "",
         "Zona": "ZONA SUR",
         "Localidad": "Berazategui",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -243,7 +261,8 @@
         "Cliente": "",
         "Zona": "ZONA NORTE",
         "Localidad": "Escobar",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -256,7 +275,8 @@
         "Cliente": "",
         "Zona": "ZONA NORTE",
         "Localidad": "Ingeniero Maschwitz",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -269,7 +289,8 @@
         "Cliente": "",
         "Zona": "ZONA SUR",
         "Localidad": "Florencio Varela",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -282,7 +303,8 @@
         "Cliente": "",
         "Zona": "ZONA OESTE",
         "Localidad": "La Matanza Norte",
-        "Precio": 5105,
+        "PrecioPagar": 5105,
+        "PrecioCobrar": 5105,
         "Pagado": "SI"
     },
     {
@@ -295,7 +317,8 @@
         "Cliente": "",
         "Zona": "ZONA SUR",
         "Localidad": "Lanus",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -308,7 +331,8 @@
         "Cliente": "",
         "Zona": "ZONA OESTE",
         "Localidad": "La Matanza Norte",
-        "Precio": 5105,
+        "PrecioPagar": 5105,
+        "PrecioCobrar": 5105,
         "Pagado": "SI"
     },
     {
@@ -321,7 +345,8 @@
         "Cliente": "",
         "Zona": "ZONA SUR",
         "Localidad": "Esteban Echeverria",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -334,7 +359,8 @@
         "Cliente": "",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 5105,
+        "PrecioPagar": 5105,
+        "PrecioCobrar": 5105,
         "Pagado": "SI"
     },
     {
@@ -347,7 +373,8 @@
         "Cliente": "",
         "Zona": "ZONA NORTE",
         "Localidad": "Escobar",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -360,7 +387,8 @@
         "Cliente": "",
         "Zona": "ZONA NORTE",
         "Localidad": "Tigre",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -373,7 +401,8 @@
         "Cliente": "",
         "Zona": "ZONA NORTE",
         "Localidad": "San Martin",
-        "Precio": 3235,
+        "PrecioPagar": 3235,
+        "PrecioCobrar": 3235,
         "Pagado": "SI"
     },
     {
@@ -386,7 +415,8 @@
         "Cliente": "",
         "Zona": "ZONA SUR",
         "Localidad": "Lomas de Zamora",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -399,7 +429,8 @@
         "Cliente": "",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 5105,
+        "PrecioPagar": 5105,
+        "PrecioCobrar": 5105,
         "Pagado": "SI"
     },
     {
@@ -412,7 +443,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6000,
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
         "Pagado": "SI"
     },
     {
@@ -425,7 +457,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6000,
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
         "Pagado": "SI"
     },
     {
@@ -438,7 +471,8 @@
         "Cliente": "FIGUS",
         "Zona": "ZONA OESTE",
         "Localidad": "Tres De Febrero",
-        "Precio": 3785,
+        "PrecioPagar": 3785,
+        "PrecioCobrar": 3785,
         "Pagado": "SI"
     },
     {
@@ -451,7 +485,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6000,
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
         "Pagado": "SI"
     },
     {
@@ -464,7 +499,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6000,
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
         "Pagado": "SI"
     },
     {
@@ -477,7 +513,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6000,
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
         "Pagado": "SI"
     },
     {
@@ -490,7 +527,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6000,
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
         "Pagado": "SI"
     },
     {
@@ -503,7 +541,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6000,
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
         "Pagado": "SI"
     },
     {
@@ -516,7 +555,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6000,
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
         "Pagado": "SI"
     },
     {
@@ -529,7 +569,8 @@
         "Cliente": "",
         "Zona": "ZONA SUR",
         "Localidad": "Lanus",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -542,7 +583,8 @@
         "Cliente": "",
         "Zona": "ZONA OESTE",
         "Localidad": "Moron",
-        "Precio": 3235,
+        "PrecioPagar": 3235,
+        "PrecioCobrar": 3235,
         "Pagado": "SI"
     },
     {
@@ -555,7 +597,8 @@
         "Cliente": "MOTO",
         "Zona": "ZONA SUR",
         "Localidad": "Avellaneda",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -568,7 +611,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA OESTE",
         "Localidad": "Merlo",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -581,7 +625,8 @@
         "Cliente": "MOTO",
         "Zona": "ZONA NORTE",
         "Localidad": "Escobar",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -594,7 +639,8 @@
         "Cliente": "ROPA",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 0,
+        "PrecioPagar": 0,
+        "PrecioCobrar": 0,
         "Pagado": "SI"
     },
     {
@@ -607,7 +653,8 @@
         "Cliente": "ROPA",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 0,
+        "PrecioPagar": 0,
+        "PrecioCobrar": 0,
         "Pagado": "SI"
     },
     {
@@ -620,7 +667,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6000,
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
         "Pagado": "SI"
     },
     {
@@ -633,7 +681,8 @@
         "Cliente": "DVR",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 5105,
+        "PrecioPagar": 5105,
+        "PrecioCobrar": 5105,
         "Pagado": "SI"
     },
     {
@@ -646,7 +695,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA SUR",
         "Localidad": "Lanus",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -659,7 +709,8 @@
         "Cliente": "FIGUS",
         "Zona": "ZONA NORTE",
         "Localidad": "Escobar",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -672,7 +723,8 @@
         "Cliente": "FIGUS",
         "Zona": "ZONA NORTE",
         "Localidad": "Nordelta",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -685,7 +737,8 @@
         "Cliente": "FIGUS",
         "Zona": "ZONA NORTE",
         "Localidad": "Vicente Lopez",
-        "Precio": 5105,
+        "PrecioPagar": 5105,
+        "PrecioCobrar": 5105,
         "Pagado": "SI"
     },
     {
@@ -698,7 +751,8 @@
         "Cliente": "FIGUS",
         "Zona": "ZONA NORTE",
         "Localidad": "San Martin",
-        "Precio": 3235,
+        "PrecioPagar": 3235,
+        "PrecioCobrar": 3235,
         "Pagado": "SI"
     },
     {
@@ -711,7 +765,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA SUR",
         "Localidad": "Ensenada",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -724,7 +779,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA SUR",
         "Localidad": "Esteban Echeverria",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -737,7 +793,8 @@
         "Cliente": "CHAPA",
         "Zona": "ZONA SUR",
         "Localidad": "Berazategui",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -750,7 +807,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6000,
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
         "Pagado": "SI"
     },
     {
@@ -763,7 +821,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6000,
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
         "Pagado": "SI"
     },
     {
@@ -776,7 +835,8 @@
         "Cliente": "FIGUS",
         "Zona": "ZONA NORTE",
         "Localidad": "Pilar",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -789,7 +849,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA SUR",
         "Localidad": "Almirante Brown",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -802,7 +863,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA SUR",
         "Localidad": "La Plata",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -815,7 +877,8 @@
         "Cliente": "MOTO",
         "Zona": "ZONA SUR",
         "Localidad": "Avellaneda",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -828,7 +891,8 @@
         "Cliente": "FIGUS",
         "Zona": "ZONA OESTE",
         "Localidad": "La Matanza Sur",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -841,7 +905,8 @@
         "Cliente": "FIGUS",
         "Zona": "ZONA SUR",
         "Localidad": "Almirante Brown",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -854,7 +919,8 @@
         "Cliente": "FIGUS",
         "Zona": "ZONA NORTE",
         "Localidad": "Escobar",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -867,7 +933,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA SUR",
         "Localidad": "Almirante Brown",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -880,7 +947,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA OESTE",
         "Localidad": "San Miguel",
-        "Precio": 5105,
+        "PrecioPagar": 5105,
+        "PrecioCobrar": 5105,
         "Pagado": "SI"
     },
     {
@@ -893,7 +961,8 @@
         "Cliente": "FIGUS",
         "Zona": "ZONA NORTE",
         "Localidad": "Pilar",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -906,7 +975,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA NORTE",
         "Localidad": "Tigre",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -919,7 +989,8 @@
         "Cliente": "FIGUS",
         "Zona": "ZONA SUR",
         "Localidad": "Berazategui",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -932,7 +1003,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA OESTE",
         "Localidad": "San Miguel",
-        "Precio": 5105,
+        "PrecioPagar": 5105,
+        "PrecioCobrar": 5105,
         "Pagado": "SI"
     },
     {
@@ -945,7 +1017,8 @@
         "Cliente": "FIGUS",
         "Zona": "ZONA NORTE",
         "Localidad": "Malvinas Argentinas",
-        "Precio": 5105,
+        "PrecioPagar": 5105,
+        "PrecioCobrar": 5105,
         "Pagado": "SI"
     },
     {
@@ -958,7 +1031,8 @@
         "Cliente": "FIGUS",
         "Zona": "ZONA OESTE",
         "Localidad": "Ituzaingo",
-        "Precio": 5105,
+        "PrecioPagar": 5105,
+        "PrecioCobrar": 5105,
         "Pagado": "SI"
     },
     {
@@ -971,7 +1045,8 @@
         "Cliente": "FIGUS",
         "Zona": "ZONA SUR",
         "Localidad": "Lomas de Zamora",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -984,7 +1059,8 @@
         "Cliente": "FIGUS",
         "Zona": "ZONA NORTE",
         "Localidad": "Escobar",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -997,7 +1073,8 @@
         "Cliente": "MOTO",
         "Zona": "ZONA NORTE",
         "Localidad": "Malvinas Argentinas",
-        "Precio": 5105,
+        "PrecioPagar": 5105,
+        "PrecioCobrar": 5105,
         "Pagado": "SI"
     },
     {
@@ -1010,7 +1087,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6000,
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
         "Pagado": "SI"
     },
     {
@@ -1023,7 +1101,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA SUR",
         "Localidad": "Berazategui",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -1036,7 +1115,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA SUR",
         "Localidad": "Lanus",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -1049,7 +1129,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6000,
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
         "Pagado": "SI"
     },
     {
@@ -1062,7 +1143,8 @@
         "Cliente": "CHAPA",
         "Zona": "ZONA OESTE",
         "Localidad": "Moreno",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -1075,7 +1157,8 @@
         "Cliente": "MOTO",
         "Zona": "ZONA SUR",
         "Localidad": "La Plata",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -1088,7 +1171,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA OESTE",
         "Localidad": "Merlo",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -1101,7 +1185,8 @@
         "Cliente": "MOTO",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6000,
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
         "Pagado": "SI"
     },
     {
@@ -1114,7 +1199,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA OESTE",
         "Localidad": "Merlo",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -1127,7 +1213,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA OESTE",
         "Localidad": "Vicente Lopez",
-        "Precio": 5105,
+        "PrecioPagar": 5105,
+        "PrecioCobrar": 5105,
         "Pagado": "NO"
     },
     {
@@ -1140,7 +1227,8 @@
         "Cliente": "MOTO",
         "Zona": "ZONA NORTE",
         "Localidad": "Tigre",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -1153,7 +1241,8 @@
         "Cliente": "FIGUS",
         "Zona": "ZONA OESTE",
         "Localidad": "San Miguel",
-        "Precio": 5105,
+        "PrecioPagar": 5105,
+        "PrecioCobrar": 5105,
         "Pagado": "SI"
     },
     {
@@ -1166,7 +1255,8 @@
         "Cliente": "MOTO",
         "Zona": "ZONA NORTE",
         "Localidad": "San Martin",
-        "Precio": 3785,
+        "PrecioPagar": 3785,
+        "PrecioCobrar": 3785,
         "Pagado": "SI"
     },
     {
@@ -1179,7 +1269,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA SUR",
         "Localidad": "Avellaneda",
-        "Precio": 6975,
+        "PrecioPagar": 6975,
+        "PrecioCobrar": 6975,
         "Pagado": "SI"
     },
     {
@@ -1192,7 +1283,8 @@
         "Cliente": "FIGUS",
         "Zona": "ZONA NORTE",
         "Localidad": "Vicente Lopez",
-        "Precio": 5105,
+        "PrecioPagar": 5105,
+        "PrecioCobrar": 5105,
         "Pagado": "SI"
     },
     {
@@ -1205,7 +1297,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 0,
+        "PrecioPagar": 0,
+        "PrecioCobrar": 0,
         "Pagado": "SI"
     },
     {
@@ -1218,7 +1311,8 @@
         "Cliente": "MOTO",
         "Zona": "ZONA SUR",
         "Localidad": "Berazategui",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -1231,7 +1325,8 @@
         "Cliente": "DVR",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6023,
+        "PrecioPagar": 5120,
+        "PrecioCobrar": 6023,
         "Pagado": "SI"
     },
     {
@@ -1244,7 +1339,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6500,
+        "PrecioPagar": 6500,
+        "PrecioCobrar": 6500,
         "Pagado": "SI"
     },
     {
@@ -1257,8 +1353,9 @@
         "Cliente": "CHAPA",
         "Zona": "ZONA NORTE",
         "Localidad": "Pilar",
-        "Precio": 8300,
-        "Pagado": "NO"
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 9900,
+        "Pagado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -1270,7 +1367,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA OESTE",
         "Localidad": "Merlo",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -1283,7 +1381,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA NORTE",
         "Localidad": "Malvinas Argentinas",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -1296,7 +1395,8 @@
         "Cliente": "FIGUS",
         "Zona": "ZONA SUR",
         "Localidad": "Ezeiza",
-        "Precio": 8300,
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
         "Pagado": "SI"
     },
     {
@@ -1309,7 +1409,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6500,
+        "PrecioPagar": 6500,
+        "PrecioCobrar": 6500,
         "Pagado": "SI"
     },
     {
@@ -1322,7 +1423,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "Precio": 6500,
+        "PrecioPagar": 6500,
+        "PrecioCobrar": 6500,
         "Pagado": "SI"
     },
     {
@@ -1335,7 +1437,8 @@
         "Cliente": "MOTO",
         "Zona": "ZONA NORTE",
         "Localidad": "Lujan",
-        "Precio": 8500,
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
         "Pagado": "SI"
     },
     {
@@ -1348,7 +1451,148 @@
         "Cliente": "MOTO",
         "Zona": "ZONA NORTE",
         "Localidad": "San Martin",
-        "Precio": 3235,
+        "PrecioPagar": 3235,
+        "PrecioCobrar": 3235,
         "Pagado": "SI"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 38,
+        "Fecha": "16/09/2024",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Pilar",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 38,
+        "Fecha": "16/09/2024",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA SUR",
+        "Localidad": "Almirante Brown",
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 38,
+        "Fecha": "16/09/2024",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA SUR",
+        "Localidad": "Avellaneda",
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 38,
+        "Fecha": "16/09/2024",
+        "Envio": "PLEX",
+        "Cliente": "DVR",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 5120,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 38,
+        "Fecha": "17/09/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6500,
+        "PrecioCobrar": 6500,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 38,
+        "Fecha": "17/09/2024",
+        "Envio": "PLEX",
+        "Cliente": "DVR",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 5120,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 38,
+        "Fecha": "17/09/2024",
+        "Envio": "NP",
+        "Cliente": "CHAPA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "SI"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 38,
+        "Fecha": "17/09/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA OESTE",
+        "Localidad": "La Matanza Norte",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 38,
+        "Fecha": "17/09/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Vicente Lopez",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 38,
+        "Fecha": "17/09/2024",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Pilar",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "NO"
     }
 ]

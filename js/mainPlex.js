@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function(){
-    var archivoJson = 'totalEnvios.json';
+    var archivoJson = '../totalEnvios.json';
 
 
     function botonSemanaDisponible(data){
@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         function actualizarSemana(){
             nroSemana.textContent = semanaSeleccionada
-            mostrarDatos(data,'DVR','renderDVR',semanaSeleccionada);
+            mostrarDatos(data,'PLEX','renderPLEX',semanaSeleccionada);
             if (semanaMax > semanaSeleccionada ) {
                 btnSig.style.visibility = 'visible';
             } else {
@@ -64,7 +64,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         console.log("Semanas disponibles:", semanasDisponibles);
 
-        mostrarDatos(data,'DVR','renderDVR',semanaSeleccionada);    
+        mostrarDatos(data,'PLEX','renderPLEX',semanaSeleccionada);    
 
     }
     
@@ -74,12 +74,12 @@ document.addEventListener('DOMContentLoaded', function(){
 
         datosTabla.innerHTML='';
 
-        let datosFiltrados = datos.filter(empresa => empresa.Cliente === env)
+        let datosFiltrados = datos.filter(empresa => empresa.Envio === env)
 
         datosFiltrados = datosFiltrados.filter(dato => dato.Semana === semanaSeleccionada);
 
         const totalSuma = datosFiltrados.reduce((total, dato) => {
-            return total + dato.Precio;
+            return total + dato.PrecioPagar;
         }, 0);
 
         const totalPrecio = document.createElement('td')
@@ -129,7 +129,7 @@ document.addEventListener('DOMContentLoaded', function(){
             fila.appendChild(partido)
 
             const precioEnvio = document.createElement('td')
-            precioEnvio.textContent= `$ ${dato.Precio}`
+            precioEnvio.textContent= `$ ${dato.PrecioPagar}`
             fila.appendChild(precioEnvio)         
             
             if (dato.Pagado === 'SI'){
@@ -153,7 +153,7 @@ document.addEventListener('DOMContentLoaded', function(){
     .then(data => {
 
         botonSemanaDisponible(data);
-        mostrarDatos(data,'DVR','renderDVR',semanaSeleccionada);
+        mostrarDatos(data,'PLEX','renderPLEX',semanaSeleccionada);
                     
     })
     .catch(error => console.error('Error al cargar el archivo JSON', error))

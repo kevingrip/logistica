@@ -8,7 +8,7 @@ def complete():
 
     distinctSemana = []
 
-    empresa = easygui.buttonbox("Ingrese Empresa", choices=["NP","NUESTRO","PLEX","DVR"])
+    empresa = easygui.buttonbox("Ingrese Empresa", choices=["NP","NUESTRO","PLEX","DVR","CHAPA"])
 
 
     for x in totalEnv:

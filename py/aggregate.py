@@ -30,14 +30,24 @@ def nuevoViaje ():
 
         print(mes,year)
 
-        canalVenta = easygui.buttonbox(fechaDia[1]+' '+fechaDia[0]+": Ingresa empresa",choices=["NP","NUESTRO","PLEX","MATI","KEVIN"])
+        cliente=easygui.buttonbox(choices=["FIGUS","MOTO","DVR","ROPA","CHAPA"])
 
-        if canalVenta=="NUESTRO":
-            cliente=easygui.buttonbox(choices=["FIGUS","MOTO"])
+
+        if cliente in ('FIGUS','MOTO'):
+            canalVenta=easygui.buttonbox(fechaDia[1]+' '+fechaDia[0]+": Ingresa empresa",choices=["VERGUI","PLEX","MATI","KEVIN"])
+            if canalVenta=="VERGUI":
+                canalVenta=="NUESTRO"
+        else:
+            canalVenta = easygui.buttonbox(fechaDia[1]+' '+fechaDia[0]+": Ingresa empresa",choices=["NP","PLEX","MATI","KEVIN"])
+
 
         if 'rcoles' in fechaDia[1]:
             print("pasa")
             fechaDia[1]='miercoles'
+
+        if 'bado' in fechaDia[1]:
+            print("pasa")
+            fechaDia[1]='sabado'
 
         print(fechaDia[1])
 
@@ -53,29 +63,35 @@ def nuevoViaje ():
             localidadDefinida = easygui.buttonbox("Elija una Localidad",choices=locality)
         else:
             localidadDefinida='CABA'
-            precio = 5105
+            precioPagar = 6024
+            precioCobrar = 6024
 
         if localidadDefinida!='CABA':
             for item in zone[zonaDefinida]:
                 if item["LOCALIDAD"] == localidadDefinida:
-                    precio = item["PRECIO"]
+                    if cliente !="CHAPA":
+                        precioPagar = item["PRECIO_NP"]
+                        precioCobrar = item["PRECIO_NP"]
+                    else:
+                        precioPagar = item["PRECIO_NP"]
+                        precioCobrar = item["PRECIO_CHAPA"]
 
         if canalVenta=="PLEX":
-            cliente = easygui.buttonbox(choices=["FIGUS","DVR","ROPA","CHAPA"])
             if cliente == "FIGUS":
                 if localidadDefinida in ("CABA","San Miguel"): 
-                    precio=6000
+                    precioPagar=6500
+                    precioCobrar = 6500
             else: 
                 if localidadDefinida in ("CABA","San Miguel"): 
-                    precio=4565
+                    precioPagar=5120
+                    precioCobrar=6024
                 elif localidadDefinida in ("Tres De Febrero"):
-                    precio=3785
-        
-        if canalVenta=="NP":
-            cliente = easygui.buttonbox(choices=["DVR","ROPA","MOTO","CHAPA"])
+                    precioPagar=3785
+                    precioCobrar=3785
+
 
         if localidadDefinida:
-            agregarEnvio = {"Dia":fechaDia[1].capitalize(),"Mes":mes,"Year":year,"Semana":semana,"Fecha":fechaDia[0],"Envio":canalVenta,"Cliente":cliente,"Zona":zonaDefinida,"Localidad":localidadDefinida,"Precio":precio,"Pagado":"NO"}
+            agregarEnvio = {"Dia":fechaDia[1].capitalize(),"Mes":mes,"Year":year,"Semana":semana,"Fecha":fechaDia[0],"Envio":canalVenta,"Cliente":cliente,"Zona":zonaDefinida,"Localidad":localidadDefinida,"PrecioPagar":precioPagar,"PrecioCobrar":precioCobrar,"Pagado":"NO"}
             with open ("totalEnvios.json","r", encoding="utf-8") as tenv:
                 totalEnv = json.load(tenv)
 

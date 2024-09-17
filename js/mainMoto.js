@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function(){
-    var archivoJson = 'totalEnvios.json';
+    var archivoJson = '../totalEnvios.json';
 
 
     function botonSemanaDisponible(data){
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function(){
         datosFiltrados = datosFiltrados.filter(dato => dato.Semana === semanaSeleccionada);
 
         const totalSuma = datosFiltrados.reduce((total, dato) => {
-            return total + dato.Precio;
+            return total + dato.PrecioCobrar;
         }, 0);
 
         const totalPrecio = document.createElement('td')
@@ -129,7 +129,7 @@ document.addEventListener('DOMContentLoaded', function(){
             fila.appendChild(partido)
 
             const precioEnvio = document.createElement('td')
-            precioEnvio.textContent= `$ ${dato.Precio}`
+            precioEnvio.textContent= `$ ${dato.PrecioCobrar}`
             fila.appendChild(precioEnvio)         
             
             if (dato.Pagado === 'SI'){
