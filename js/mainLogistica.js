@@ -145,13 +145,23 @@ document.addEventListener('DOMContentLoaded', function(){
             fila.appendChild(precioEnvio)    
                  
             
-            if (dato.Pagado === 'SI'){
-                precioEnvio.style.backgroundColor = '#a4fdc9';
-                totalPrecio.style.backgroundColor = '#39ff14';
-                totalPrecio.style.color = '#000000';
+            if (dato.Cobrado === 'SI'){                
+                precioEnvio.style.backgroundColor = '#a4fdc9';                
+                totalSemana.style.color = '#000000';
+                
             }
             else{
                 precioEnvio.style.backgroundColor = '#ff9c9c';
+            }
+
+            if (dato.Pagado==='SI'){
+                totalPrecio.style.backgroundColor = '#39ff14';
+                totalPrecio.style.color = '#000000';
+                totalSemana.style.backgroundColor = '#39ff14';
+                vacio.style.backgroundColor = '#39ff14';
+                vacio2.style.backgroundColor = '#39ff14';
+                vacio4.style.backgroundColor = '#39ff14';
+                vacio5.style.backgroundColor = '#39ff14';
             }
         
 

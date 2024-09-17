@@ -8,7 +8,12 @@ def complete():
 
     distinctSemana = []
 
-    empresa = easygui.buttonbox("Ingrese Empresa", choices=["NP","NUESTRO","PLEX","DVR","CHAPA"])
+    tipoAccion = easygui.buttonbox("Marcar", choices=["COBRADA","PAGADA"])
+
+    if (tipoAccion=="COBRADA"):
+        empresa = easygui.buttonbox("Ingrese Empresa", choices=["DVR","CHAPA","ROPA","MOTO"])
+    else:
+        empresa = easygui.buttonbox("Ingrese Empresa", choices=["NP","NUESTRO","PLEX"])
 
 
     for x in totalEnv:
@@ -18,9 +23,14 @@ def complete():
     semana = easygui.buttonbox("Ingrese Semana", choices=distinctSemana)
 
     for x in totalEnv:
-        if ((x["Envio"] == empresa) or (x["Cliente"] == empresa)) and x['Semana'] == int(semana) and x["Pagado"] == "NO":
-            x["Pagado"] = "SI"
-            print(x)
+        if(tipoAccion=="PAGADA"):
+            if ((x["Envio"] == empresa) or (x["Cliente"] == empresa)) and x['Semana'] == int(semana) and x["Pagado"] == "NO":
+                x["Pagado"] = "SI"
+                print(x)
+        else:
+            if ((x["Envio"] == empresa) or (x["Cliente"] == empresa)) and x['Semana'] == int(semana) and x["Cobrado"] == "NO":
+                x["Cobrado"] = "SI"
+                print(x)
 
     with open("totalEnvios.json", "w", encoding="utf-8") as tenv:
         json.dump(totalEnv, tenv, indent=4)
