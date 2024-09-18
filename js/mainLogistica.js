@@ -146,9 +146,7 @@ document.addEventListener('DOMContentLoaded', function(){
                  
             
             if (dato.Cobrado === 'SI'){                
-                precioEnvio.style.backgroundColor = '#a4fdc9';                
-                totalSemana.style.color = '#000000';
-                
+                precioEnvio.style.backgroundColor = '#a4fdc9';
             }
             else{
                 precioEnvio.style.backgroundColor = '#ff9c9c';
