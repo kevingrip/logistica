@@ -1722,5 +1722,47 @@
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
         "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 38,
+        "Fecha": "20/09/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6500,
+        "PrecioCobrar": 6500,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 38,
+        "Fecha": "20/09/2024",
+        "Envio": "PLEX",
+        "Cliente": "MOTO",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 5120,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 38,
+        "Fecha": "20/09/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "MOTO",
+        "Zona": "ZONA NORTE",
+        "Localidad": "General Rodriguez",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "NO"
     }
 ]
