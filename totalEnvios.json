@@ -1632,7 +1632,7 @@
         "PrecioPagar": 6500,
         "PrecioCobrar": 6500,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -1676,8 +1676,8 @@
         "Localidad": "La Matanza Norte",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -1691,8 +1691,8 @@
         "Localidad": "Vicente Lopez",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -1721,7 +1721,8 @@
         "Localidad": "Quilmes",
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
-        "Pagado": "NO"
+        "Pagado": "NO",
+        "Cobrado": "NO"
     },
     {
         "Dia": "Viernes",
@@ -1735,7 +1736,23 @@
         "Localidad": "CABA",
         "PrecioPagar": 6500,
         "PrecioCobrar": 6500,
-        "Pagado": "NO"
+        "Pagado": "NO",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 38,
+        "Fecha": "20/09/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "REINTEGRO CUENTA DNI",
+        "PrecioPagar": -6000,
+        "PrecioCobrar": -6000,
+        "Pagado": "NO",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -1748,8 +1765,9 @@
         "Zona": "CABA",
         "Localidad": "CABA",
         "PrecioPagar": 5120,
-        "PrecioCobrar": 6024,
-        "Pagado": "NO"
+        "PrecioCobrar": 5120,
+        "Pagado": "NO",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -1763,6 +1781,82 @@
         "Localidad": "General Rodriguez",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 38,
+        "Fecha": "21/09/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "MOTO",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Pilar",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 39,
+        "Fecha": "23/09/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA SUR",
+        "Localidad": "Lanus",
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 39,
+        "Fecha": "23/09/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA OESTE",
+        "Localidad": "La Matanza Norte",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 39,
+        "Fecha": "23/09/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6500,
+        "PrecioCobrar": 6500,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "09",
+        "Year": "2024",
+        "Semana": 39,
+        "Fecha": "23/09/2024",
+        "Envio": "MATI",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Vicente Lopez",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]

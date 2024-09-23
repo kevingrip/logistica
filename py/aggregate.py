@@ -34,12 +34,12 @@ def nuevoViaje ():
 
 
         if cliente in ('FIGUS','MOTO'):
-            canalVenta=easygui.buttonbox(fechaDia[1]+' '+fechaDia[0]+": Ingresa empresa",choices=["VERGUI","PLEX","MATI","KEVIN"])
-            if canalVenta=="VERGUI":
-                canalVenta=="NUESTRO"
+            canalVenta=easygui.buttonbox(fechaDia[1]+' '+fechaDia[0]+": Ingresa empresa",choices=["VERGUI","PLEX","MATI","KEVIN"])            
         else:
             canalVenta = easygui.buttonbox(fechaDia[1]+' '+fechaDia[0]+": Ingresa empresa",choices=["NP","PLEX","MATI","KEVIN"])
 
+        if canalVenta=="VERGUI":
+                canalVenta="NUESTRO"
 
         if 'rcoles' in fechaDia[1]:
             print("pasa")
@@ -84,14 +84,14 @@ def nuevoViaje ():
             else: 
                 if localidadDefinida in ("CABA","San Miguel"): 
                     precioPagar=5120
-                    precioCobrar=6024
+                    precioCobrar=5120
                 elif localidadDefinida in ("Tres De Febrero"):
                     precioPagar=3785
                     precioCobrar=3785
 
 
         if localidadDefinida:
-            agregarEnvio = {"Dia":fechaDia[1].capitalize(),"Mes":mes,"Year":year,"Semana":semana,"Fecha":fechaDia[0],"Envio":canalVenta,"Cliente":cliente,"Zona":zonaDefinida,"Localidad":localidadDefinida,"PrecioPagar":precioPagar,"PrecioCobrar":precioCobrar,"Pagado":"NO"}
+            agregarEnvio = {"Dia":fechaDia[1].capitalize(),"Mes":mes,"Year":year,"Semana":semana,"Fecha":fechaDia[0],"Envio":canalVenta,"Cliente":cliente,"Zona":zonaDefinida,"Localidad":localidadDefinida,"PrecioPagar":precioPagar,"PrecioCobrar":precioCobrar,"Pagado":"NO","Cobrado":"NO"}
             with open ("totalEnvios.json","r", encoding="utf-8") as tenv:
                 totalEnv = json.load(tenv)
 
