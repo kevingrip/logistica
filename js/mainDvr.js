@@ -132,7 +132,7 @@ document.addEventListener('DOMContentLoaded', function(){
             precioEnvio.textContent= `$ ${dato.PrecioCobrar}`
             fila.appendChild(precioEnvio)         
             
-            if (dato.Pagado === 'SI'){
+            if (dato.Cobrado === 'SI'){
                 totalPrecio.style.backgroundColor = '#39ff14';
                 totalPrecio.style.color = '#000000';
             }

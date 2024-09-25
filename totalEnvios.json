@@ -1572,7 +1572,7 @@
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -1587,7 +1587,7 @@
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -1602,7 +1602,7 @@
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -1616,8 +1616,8 @@
         "Localidad": "CABA",
         "PrecioPagar": 5120,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -1631,7 +1631,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 6500,
         "PrecioCobrar": 6500,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -1646,8 +1646,8 @@
         "Localidad": "CABA",
         "PrecioPagar": 5120,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -1707,7 +1707,7 @@
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -1736,7 +1736,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 6500,
         "PrecioCobrar": 6500,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -1751,7 +1751,7 @@
         "Localidad": "REINTEGRO CUENTA DNI",
         "PrecioPagar": -6000,
         "PrecioCobrar": -6000,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -1766,7 +1766,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 5120,
         "PrecioCobrar": 5120,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
