@@ -1571,7 +1571,7 @@
         "Localidad": "Pilar",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -1586,7 +1586,7 @@
         "Localidad": "Almirante Brown",
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -1601,7 +1601,7 @@
         "Localidad": "Avellaneda",
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -1661,7 +1661,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -1706,7 +1706,7 @@
         "Localidad": "Pilar",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -1721,7 +1721,7 @@
         "Localidad": "Quilmes",
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
