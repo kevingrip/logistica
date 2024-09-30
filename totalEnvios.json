@@ -1841,8 +1841,8 @@
         "Localidad": "CABA",
         "PrecioPagar": 6500,
         "PrecioCobrar": 6500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -1901,8 +1901,8 @@
         "Localidad": "CABA",
         "PrecioPagar": 6500,
         "PrecioCobrar": 6500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -1916,7 +1916,7 @@
         "Localidad": "Hurlingham",
         "PrecioPagar": 3785,
         "PrecioCobrar": 3785,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     }
 ]

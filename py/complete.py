@@ -24,10 +24,14 @@ def complete():
 
     for x in totalEnv:
         if(tipoAccion=="PAGADA"):
-            if ((x["Cliente"] == "FIGUS") and (x["Envio"] == "NUESTRO")) and x['Semana'] == int(semana) and x["Pagado"] == "NO":
+            if ((x["Cliente"] == "FIGUS") and (x["Envio"] == "PLEX")) and x['Semana'] == int(semana) and x["Pagado"] == "NO":
                 x["Pagado"] = "SI"
                 x["Cobrado"] = "SI"
                 print(x)
+            # if ((x["Cliente"] == "FIGUS") and (x["Envio"] == "NUESTRO")) and x['Semana'] == int(semana) and x["Pagado"] == "NO":
+            #     x["Pagado"] = "SI"
+            #     x["Cobrado"] = "SI"
+            #     print(x)
             if ((x["Envio"] == empresa) or (x["Cliente"] == empresa)) and x['Semana'] == int(semana) and x["Pagado"] == "NO":
                 x["Pagado"] = "SI"
                 print(x)
