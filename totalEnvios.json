@@ -1811,8 +1811,8 @@
         "Localidad": "Lanus",
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -1826,8 +1826,8 @@
         "Localidad": "La Matanza Norte",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -1871,8 +1871,8 @@
         "Localidad": "Tigre",
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -1886,8 +1886,8 @@
         "Localidad": "Berisso",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -1918,5 +1918,65 @@
         "PrecioCobrar": 3785,
         "Pagado": "SI",
         "Cobrado": "SI"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "10",
+        "Year": "2024",
+        "Semana": 39,
+        "Fecha": "27/09/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "MOTO",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "10",
+        "Year": "2024",
+        "Semana": 40,
+        "Fecha": "01/10/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Pilar",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "10",
+        "Year": "2024",
+        "Semana": 40,
+        "Fecha": "01/10/2024",
+        "Envio": "PLEX",
+        "Cliente": "MOTO",
+        "Zona": "ZONA NORTE",
+        "Localidad": "San Martin",
+        "PrecioPagar": 3900,
+        "PrecioCobrar": 3900,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "10",
+        "Year": "2024",
+        "Semana": 40,
+        "Fecha": "05/10/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "MOTO",
+        "Zona": "ZONA SUR",
+        "Localidad": "Lanus",
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]
