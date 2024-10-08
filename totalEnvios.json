@@ -1722,7 +1722,7 @@
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
         "Pagado": "SI",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -1946,8 +1946,8 @@
         "Localidad": "Pilar",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -1962,7 +1962,7 @@
         "PrecioPagar": 3900,
         "PrecioCobrar": 3900,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Sabado",
@@ -1976,6 +1976,36 @@
         "Localidad": "Lanus",
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "10",
+        "Year": "2024",
+        "Semana": 41,
+        "Fecha": "08/10/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA SUR",
+        "Localidad": "Lomas de Zamora",
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "10",
+        "Year": "2024",
+        "Semana": 41,
+        "Fecha": "08/10/2024",
+        "Envio": "MATI",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Vicente Lopez",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
         "Pagado": "NO",
         "Cobrado": "NO"
     }
