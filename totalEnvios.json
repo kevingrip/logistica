@@ -2098,5 +2098,35 @@
         "PrecioCobrar": 8500,
         "Pagado": "NO",
         "Cobrado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "10",
+        "Year": "2024",
+        "Semana": 42,
+        "Fecha": "17/10/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA OESTE",
+        "Localidad": "San Miguel",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "10",
+        "Year": "2024",
+        "Semana": 42,
+        "Fecha": "18/10/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA SUR",
+        "Localidad": "Almirante Brown",
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]
