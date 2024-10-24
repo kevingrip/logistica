@@ -2051,8 +2051,8 @@
         "Localidad": "Moron",
         "PrecioPagar": 3785,
         "PrecioCobrar": 3785,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -2066,8 +2066,8 @@
         "Localidad": "Ituzaingo",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -2081,8 +2081,8 @@
         "Localidad": "Moreno",
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -2096,8 +2096,8 @@
         "Localidad": "Pilar",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -2111,8 +2111,8 @@
         "Localidad": "San Miguel",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -2126,7 +2126,37 @@
         "Localidad": "Almirante Brown",
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "10",
+        "Year": "2024",
+        "Semana": 43,
+        "Fecha": "22/10/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6500,
+        "PrecioCobrar": 6500,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "10",
+        "Year": "2024",
+        "Semana": 43,
+        "Fecha": "22/10/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Vicente Lopez",
+        "PrecioPagar": 6500,
+        "PrecioCobrar": 6500,
+        "Pagado": "SI",
+        "Cobrado": "SI"
     }
 ]
