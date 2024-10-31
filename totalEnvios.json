@@ -2158,5 +2158,35 @@
         "PrecioCobrar": 6500,
         "Pagado": "SI",
         "Cobrado": "SI"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "10",
+        "Year": "2024",
+        "Semana": 43,
+        "Fecha": "25/10/2024",
+        "Envio": "PLEX",
+        "Cliente": "MOTO",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6500,
+        "PrecioCobrar": 6500,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "10",
+        "Year": "2024",
+        "Semana": 44,
+        "Fecha": "31/10/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA OESTE",
+        "Localidad": "Jose C Paz",
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]

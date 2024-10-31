@@ -239,6 +239,12 @@
             "CORDON": 2
         },
         {
+            "LOCALIDAD": "CABA",
+            "PRECIO_NP": 6024,
+            "PRECIO_CHAPA": 6024,
+            "CORDON": 2
+        },
+        {
             "LOCALIDAD": "Tres De Febrero",
             "PRECIO_NP": 3785,
             "PRECIO_CHAPA": 3785,
