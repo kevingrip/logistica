@@ -2188,5 +2188,20 @@
         "PrecioCobrar": 8300,
         "Pagado": "NO",
         "Cobrado": "NO"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "11",
+        "Year": "2024",
+        "Semana": 44,
+        "Fecha": "02/11/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "MOTO",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Lujan",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]
