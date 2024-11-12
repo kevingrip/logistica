@@ -2216,8 +2216,8 @@
         "Localidad": "Tigre",
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -2231,8 +2231,8 @@
         "Localidad": "La Matanza Norte",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -2261,8 +2261,8 @@
         "Localidad": "Canuelas",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -2276,7 +2276,52 @@
         "Localidad": "La Plata",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "11",
+        "Year": "2024",
+        "Semana": 46,
+        "Fecha": "12/11/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "MOTO",
+        "Zona": "ZONA OESTE",
+        "Localidad": "La Matanza Norte",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
         "Pagado": "NO",
         "Cobrado": "NO"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "11",
+        "Year": "2024",
+        "Semana": 45,
+        "Fecha": "09/11/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA SUR",
+        "Localidad": "Lanus",
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "11",
+        "Year": "2024",
+        "Semana": 45,
+        "Fecha": "09/11/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA OESTE",
+        "Localidad": "La Matanza Norte",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "SI",
+        "Cobrado": "SI"
     }
 ]
