@@ -2323,5 +2323,20 @@
         "PrecioCobrar": 6024,
         "Pagado": "SI",
         "Cobrado": "SI"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "11",
+        "Year": "2024",
+        "Semana": 47,
+        "Fecha": "19/11/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA SUR",
+        "Localidad": "Lomas de Zamora",
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]
