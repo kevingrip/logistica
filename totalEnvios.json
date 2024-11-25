@@ -2338,5 +2338,20 @@
         "PrecioCobrar": 8300,
         "Pagado": "NO",
         "Cobrado": "NO"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "11",
+        "Year": "2024",
+        "Semana": 47,
+        "Fecha": "23/11/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA SUR",
+        "Localidad": "La Plata",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]
