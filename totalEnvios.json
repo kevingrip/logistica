@@ -2336,8 +2336,8 @@
         "Localidad": "Lomas de Zamora",
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Sabado",
@@ -2351,7 +2351,7 @@
         "Localidad": "La Plata",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     }
 ]
