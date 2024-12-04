@@ -2366,8 +2366,8 @@
         "Localidad": "Canuelas",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -2381,7 +2381,22 @@
         "Localidad": "CABA",
         "PrecioPagar": 6500,
         "PrecioCobrar": 6500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "11",
+        "Year": "2024",
+        "Semana": 48,
+        "Fecha": "26/11/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Villa Rosa",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "SI",
+        "Cobrado": "SI"
     }
 ]
