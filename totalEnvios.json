@@ -2353,5 +2353,35 @@
         "PrecioCobrar": 8500,
         "Pagado": "SI",
         "Cobrado": "SI"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "11",
+        "Year": "2024",
+        "Semana": 48,
+        "Fecha": "28/11/2024",
+        "Envio": "NUESTRO",
+        "Cliente": "MOTO",
+        "Zona": "ZONA SUR",
+        "Localidad": "Canuelas",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "11",
+        "Year": "2024",
+        "Semana": 48,
+        "Fecha": "27/11/2024",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6500,
+        "PrecioCobrar": 6500,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]
