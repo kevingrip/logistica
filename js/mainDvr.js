@@ -1,10 +1,14 @@
 document.addEventListener('DOMContentLoaded', function(){
     var archivoJson = '../totalEnvios.json';
+    
 
 
     function botonSemanaDisponible(data){
+
+        const datos2025 = data.filter(dato=> dato.Year==="2025");
+
         const semanasDisponibles=new Set();
-        data.forEach(sem=>{
+        datos2025.forEach(sem=>{
             const semana = sem.Semana
             semanasDisponibles.add(semana);
             // if (sem.Mes === mesSeleccionado) {
@@ -20,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         function actualizarSemana(){
             nroSemana.textContent = semanaSeleccionada
-            mostrarDatos(data,'DVR','renderDVR',semanaSeleccionada);
+            mostrarDatos(datos2025,'DVR','renderDVR',semanaSeleccionada);
             if (semanaMax > semanaSeleccionada ) {
                 btnSig.style.visibility = 'visible';
             } else {

@@ -3,8 +3,9 @@ document.addEventListener('DOMContentLoaded', function(){
 
 
     function botonSemanaDisponible(data){
+        const filtro2025 = data.filter(data=> data.Year==="2025")
         const semanasDisponibles=new Set();
-        data.forEach(sem=>{
+        filtro2025.forEach(sem=>{
             const semana = sem.Semana
             semanasDisponibles.add(semana);
             // if (sem.Mes === mesSeleccionado) {
@@ -20,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         function actualizarSemana(){
             nroSemana.textContent = semanaSeleccionada
-            mostrarDatos(data,'CHAPA','renderChapa',semanaSeleccionada);
+            mostrarDatos(filtro2025,'CHAPA','renderChapa',semanaSeleccionada);
             if (semanaMax > semanaSeleccionada ) {
                 btnSig.style.visibility = 'visible';
             } else {
@@ -64,7 +65,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         console.log("Semanas disponibles:", semanasDisponibles);
 
-        mostrarDatos(data,'CHAPA','renderChapa',semanaSeleccionada);    
+        mostrarDatos(filtro2025,'CHAPA','renderChapa',semanaSeleccionada);    
 
     }
     
