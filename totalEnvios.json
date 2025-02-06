@@ -2773,5 +2773,35 @@
         "PrecioCobrar": 6000,
         "Pagado": "NO",
         "Cobrado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "02",
+        "Year": "2025",
+        "Semana": 6,
+        "Fecha": "06/02/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "MOTO",
+        "Zona": "ZONA OESTE",
+        "Localidad": "Moron",
+        "PrecioPagar": 3785,
+        "PrecioCobrar": 3785,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "02",
+        "Year": "2025",
+        "Semana": 6,
+        "Fecha": "06/02/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "MOTO",
+        "Zona": "ZONA SUR",
+        "Localidad": "Lomas de Zamora",
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]
