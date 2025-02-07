@@ -2695,7 +2695,7 @@
         "Zona": "ZONA NORTE",
         "Localidad": "Pilar",
         "PrecioPagar": 8500,
-        "PrecioCobrar": 8500,
+        "PrecioCobrar": 9900,
         "Pagado": "NO",
         "Cobrado": "NO"
     },
@@ -2876,6 +2876,21 @@
         "Localidad": "Tres De Febrero",
         "PrecioPagar": 3785,
         "PrecioCobrar": 3785,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "02",
+        "Year": "2025",
+        "Semana": 6,
+        "Fecha": "07/02/2025",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Lujan",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 9900,
         "Pagado": "NO",
         "Cobrado": "NO"
     }
