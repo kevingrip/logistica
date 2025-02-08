@@ -2893,5 +2893,35 @@
         "PrecioCobrar": 9900,
         "Pagado": "NO",
         "Cobrado": "NO"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "02",
+        "Year": "2025",
+        "Semana": 6,
+        "Fecha": "08/02/2025",
+        "Envio": "PLEX",
+        "Cliente": "MOTO",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 5120,
+        "PrecioCobrar": 5120,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "02",
+        "Year": "2025",
+        "Semana": 6,
+        "Fecha": "08/02/2025",
+        "Envio": "NP",
+        "Cliente": "CHAPA",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Vicente Lopez",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]
