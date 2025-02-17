@@ -2441,7 +2441,7 @@
         "Localidad": "Avellaneda",
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -2456,7 +2456,7 @@
         "Localidad": "Malvinas Argentinas",
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -2681,7 +2681,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -2696,7 +2696,7 @@
         "Localidad": "Pilar",
         "PrecioPagar": 8500,
         "PrecioCobrar": 9900,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -2831,7 +2831,7 @@
         "Localidad": "Berazategui",
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -2891,7 +2891,7 @@
         "Localidad": "Lujan",
         "PrecioPagar": 8500,
         "PrecioCobrar": 9900,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -2936,8 +2936,8 @@
         "Localidad": "CABA",
         "PrecioPagar": 6000,
         "PrecioCobrar": 6000,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -2951,8 +2951,8 @@
         "Localidad": "CABA",
         "PrecioPagar": 6000,
         "PrecioCobrar": 6000,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -2966,8 +2966,8 @@
         "Localidad": "CABA",
         "PrecioPagar": 6000,
         "PrecioCobrar": 6000,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -2981,8 +2981,8 @@
         "Localidad": "Nordelta",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -2996,8 +2996,8 @@
         "Localidad": "San Fernando",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -3011,8 +3011,8 @@
         "Localidad": "CABA",
         "PrecioPagar": 6000,
         "PrecioCobrar": 6000,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -3026,8 +3026,8 @@
         "Localidad": "CABA",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -3041,8 +3041,8 @@
         "Localidad": "CABA",
         "PrecioPagar": 6000,
         "PrecioCobrar": 6000,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -3056,8 +3056,8 @@
         "Localidad": "CABA",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -3071,7 +3071,112 @@
         "Localidad": "Lanus",
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "02",
+        "Year": "2025",
+        "Semana": 7,
+        "Fecha": "14/02/2025",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "02",
+        "Year": "2025",
+        "Semana": 7,
+        "Fecha": "14/02/2025",
+        "Envio": "PLEX",
+        "Cliente": "MOTO",
+        "Zona": "ZONA NORTE",
+        "Localidad": "San Isidro",
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "02",
+        "Year": "2025",
+        "Semana": 7,
+        "Fecha": "15/02/2025",
+        "Envio": "PLEX",
+        "Cliente": "MOTO",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "02",
+        "Year": "2025",
+        "Semana": 7,
+        "Fecha": "15/02/2025",
+        "Envio": "PLEX",
+        "Cliente": "MOTO",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "02",
+        "Year": "2025",
+        "Semana": 7,
+        "Fecha": "15/02/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "MOTO",
+        "Zona": "ZONA NORTE",
+        "Localidad": "San Martin",
+        "PrecioPagar": 3785,
+        "PrecioCobrar": 3785,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "02",
+        "Year": "2025",
+        "Semana": 7,
+        "Fecha": "15/02/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "MOTO",
+        "Zona": "ZONA OESTE",
+        "Localidad": "Ituzaingo",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "02",
+        "Year": "2025",
+        "Semana": 7,
+        "Fecha": "10/02/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "MOTO",
+        "Zona": "ZONA OESTE",
+        "Localidad": "La Matanza Sur",
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
+        "Pagado": "SI",
+        "Cobrado": "SI"
     }
 ]
