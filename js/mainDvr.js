@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         console.log("Semanas disponibles:", semanasDisponibles);
 
-        mostrarDatos(data,'DVR','renderDVR',semanaSeleccionada);    
+        mostrarDatos(datos2025,'DVR','renderDVR',semanaSeleccionada);    
 
     }
     

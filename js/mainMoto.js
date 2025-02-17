@@ -3,8 +3,11 @@ document.addEventListener('DOMContentLoaded', function(){
 
 
     function botonSemanaDisponible(data){
+
+        const datos2025 = data.filter(dato=> dato.Year==="2025");
+
         const semanasDisponibles=new Set();
-        data.forEach(sem=>{
+        datos2025.forEach(sem=>{
             const semana = sem.Semana
             semanasDisponibles.add(semana);
             // if (sem.Mes === mesSeleccionado) {
@@ -20,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         function actualizarSemana(){
             nroSemana.textContent = semanaSeleccionada
-            mostrarDatos(data,'MOTO','renderMoto',semanaSeleccionada);
+            mostrarDatos(datos2025,'MOTO','renderMoto',semanaSeleccionada);
             if (semanaMax > semanaSeleccionada ) {
                 btnSig.style.visibility = 'visible';
             } else {
@@ -64,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         console.log("Semanas disponibles:", semanasDisponibles);
 
-        mostrarDatos(data,'MOTO','renderMoto',semanaSeleccionada);    
+        mostrarDatos(datos2025,'MOTO','renderMoto',semanaSeleccionada);    
 
     }
     
