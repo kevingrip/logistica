@@ -3703,5 +3703,35 @@
         "PrecioCobrar": 6024,
         "Pagado": "NO",
         "Cobrado": "NO"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 9,
+        "Fecha": "01/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA SUR",
+        "Localidad": "Avellaneda",
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 9,
+        "Fecha": "01/03/2025",
+        "Envio": "NP",
+        "Cliente": "CHAPA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]
