@@ -4093,5 +4093,20 @@
         "PrecioCobrar": 3785,
         "Pagado": "NO",
         "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "05/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]
