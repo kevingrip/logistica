@@ -3371,7 +3371,7 @@
         "Localidad": "Ituzaingo",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -3386,7 +3386,22 @@
         "Localidad": "San Fernando",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
+        "Pagado": "SI",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "02",
+        "Year": "2025",
+        "Semana": 9,
+        "Fecha": "24/02/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA SUR",
+        "Localidad": "Berazategui",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -3416,7 +3431,7 @@
         "Localidad": "Vicente Lopez",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -3431,7 +3446,7 @@
         "Localidad": "San Miguel",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -3446,7 +3461,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -3461,7 +3476,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 6000,
         "PrecioCobrar": 6000,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -3476,7 +3491,7 @@
         "Localidad": "Lomas de Zamora",
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -3491,7 +3506,7 @@
         "Localidad": "Vicente Lopez",
         "PrecioPagar": 6000,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -3506,7 +3521,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 6000,
         "PrecioCobrar": 6000,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -3521,7 +3536,7 @@
         "Localidad": "Lanus",
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -3536,7 +3551,7 @@
         "Localidad": "San Isidro",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -3551,7 +3566,7 @@
         "Localidad": "Villa Rosa",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -3566,7 +3581,7 @@
         "Localidad": "Pilar",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -3581,7 +3596,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 6000,
         "PrecioCobrar": 6000,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -3596,7 +3611,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 6000,
         "PrecioCobrar": 6000,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -3611,7 +3626,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -3626,7 +3641,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -3641,7 +3656,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -3656,8 +3671,8 @@
         "Localidad": "Tigre",
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -3671,8 +3686,8 @@
         "Localidad": "Vicente Lopez",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -3686,8 +3701,8 @@
         "Localidad": "Vicente Lopez",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -3701,8 +3716,8 @@
         "Localidad": "CABA",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Sabado",
@@ -3716,7 +3731,7 @@
         "Localidad": "Avellaneda",
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -3731,6 +3746,351 @@
         "Localidad": "CABA",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
+        "Pagado": "SI",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "05/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "05/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Vicente Lopez",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "05/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "05/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "05/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Vicente Lopez",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "05/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "05/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Escobar",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "05/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "05/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA NORTE",
+        "Localidad": "San Isidro",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "05/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA OESTE",
+        "Localidad": "Moron",
+        "PrecioPagar": 3785,
+        "PrecioCobrar": 3785,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "05/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA OESTE",
+        "Localidad": "San Miguel",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "06/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "06/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA NORTE",
+        "Localidad": "San Martin",
+        "PrecioPagar": 3785,
+        "PrecioCobrar": 3785,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "06/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "06/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "06/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "06/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "06/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "06/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA OESTE",
+        "Localidad": "La Matanza Norte",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "07/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "07/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "08/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Tigre",
+        "PrecioPagar": 8300,
+        "PrecioCobrar": 8300,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 10,
+        "Fecha": "08/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA NORTE",
+        "Localidad": "San Martin",
+        "PrecioPagar": 3785,
+        "PrecioCobrar": 3785,
         "Pagado": "NO",
         "Cobrado": "NO"
     }
