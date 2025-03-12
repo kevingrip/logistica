@@ -11,7 +11,7 @@ def complete():
     tipoAccion = easygui.buttonbox("Marcar", choices=["COBRADA","PAGADA"])
 
     if (tipoAccion=="COBRADA"):
-        empresa = easygui.buttonbox("Ingrese Empresa", choices=["DVR","CHAPA","ROPA","MOTO"])
+        empresa = easygui.buttonbox("Ingrese Empresa", choices=["DVR","CHAPA","ALFOMBRA","ROPA","MOTO"])
     else:
         empresa = easygui.buttonbox("Ingrese Empresa", choices=["NP","NUESTRO","PLEX"])
 
