@@ -3747,7 +3747,7 @@
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
         "Pagado": "SI",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -4332,7 +4332,7 @@
         "PrecioPagar": 8300,
         "PrecioCobrar": 8300,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
