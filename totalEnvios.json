@@ -4121,19 +4121,34 @@
         "Localidad": "Nordelta",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 11,
+        "Fecha": "05/03/2025",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA NORTE",
+        "Localidad": "San Martin",
+        "PrecioPagar": 3785,
+        "PrecioCobrar": 3785,
         "Pagado": "NO",
         "Cobrado": "NO"
     },
     {
-        "Dia": "Lunes",
+        "Dia": "Miercoles",
         "Mes": "03",
         "Year": "2025",
         "Semana": 11,
-        "Fecha": "10/03/2025",
-        "Envio": "NUESTRO",
-        "Cliente": "ALFOMBRA",
-        "Zona": "CABA",
-        "Localidad": "CABA",
+        "Fecha": "05/03/2025",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA OESTE",
+        "Localidad": "La Matanza Norte",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
         "Pagado": "NO",
@@ -4151,8 +4166,23 @@
         "Localidad": "CABA",
         "PrecioPagar": 6024,
         "PrecioCobrar": 6024,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 11,
+        "Fecha": "10/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -4164,10 +4194,10 @@
         "Cliente": "ALFOMBRA",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "PrecioPagar": 6000,
-        "PrecioCobrar": 6000,
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -4194,10 +4224,10 @@
         "Cliente": "ALFOMBRA",
         "Zona": "ZONA SUR",
         "Localidad": "Berazategui",
-        "PrecioPagar": 8300,
-        "PrecioCobrar": 8300,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -4209,10 +4239,10 @@
         "Cliente": "ALFOMBRA",
         "Zona": "ZONA NORTE",
         "Localidad": "Tigre",
-        "PrecioPagar": 8300,
-        "PrecioCobrar": 8300,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -4224,10 +4254,10 @@
         "Cliente": "ALFOMBRA",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "PrecioPagar": 6000,
-        "PrecioCobrar": 6000,
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -4239,10 +4269,10 @@
         "Cliente": "ALFOMBRA",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "PrecioPagar": 6000,
-        "PrecioCobrar": 6000,
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -4254,10 +4284,10 @@
         "Cliente": "ALFOMBRA",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "PrecioPagar": 6000,
-        "PrecioCobrar": 6000,
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -4269,10 +4299,10 @@
         "Cliente": "ALFOMBRA",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "PrecioPagar": 6000,
-        "PrecioCobrar": 6000,
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -4284,10 +4314,10 @@
         "Cliente": "ALFOMBRA",
         "Zona": "ZONA NORTE",
         "Localidad": "Vicente Lopez",
-        "PrecioPagar": 6024,
-        "PrecioCobrar": 6024,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -4299,25 +4329,10 @@
         "Cliente": "ALFOMBRA",
         "Zona": "ZONA SUR",
         "Localidad": "La Plata",
-        "PrecioPagar": 8500,
-        "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
-    },
-    {
-        "Dia": "Miercoles",
-        "Mes": "03",
-        "Year": "2025",
-        "Semana": 11,
-        "Fecha": "12/03/2025",
-        "Envio": "NP",
-        "Cliente": "DVR",
-        "Zona": "ZONA SUR",
-        "Localidad": "Quilmes",
-        "PrecioPagar": 8300,
-        "PrecioCobrar": 8300,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "PrecioPagar": 9444,
+        "PrecioCobrar": 9444,
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -4329,8 +4344,8 @@
         "Cliente": "CHAPA",
         "Zona": "ZONA OESTE",
         "Localidad": "Moreno",
-        "PrecioPagar": 8300,
-        "PrecioCobrar": 8300,
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
         "Pagado": "NO",
         "Cobrado": "SI"
     },
@@ -4344,8 +4359,8 @@
         "Cliente": "DVR",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "PrecioPagar": 6024,
-        "PrecioCobrar": 6024,
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
         "Pagado": "NO",
         "Cobrado": "NO"
     },
@@ -4359,10 +4374,10 @@
         "Cliente": "ALFOMBRA",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "PrecioPagar": 6024,
-        "PrecioCobrar": 6024,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -4374,10 +4389,10 @@
         "Cliente": "ALFOMBRA",
         "Zona": "ZONA NORTE",
         "Localidad": "Lujan",
-        "PrecioPagar": 8500,
-        "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "PrecioPagar": 9444,
+        "PrecioCobrar": 9444,
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -4389,10 +4404,10 @@
         "Cliente": "ALFOMBRA",
         "Zona": "ZONA OESTE",
         "Localidad": "San Miguel",
-        "PrecioPagar": 6024,
-        "PrecioCobrar": 6024,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -4404,10 +4419,10 @@
         "Cliente": "ALFOMBRA",
         "Zona": "ZONA SUR",
         "Localidad": "Lanus",
-        "PrecioPagar": 8300,
-        "PrecioCobrar": 8300,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -4419,10 +4434,10 @@
         "Cliente": "ALFOMBRA",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "PrecioPagar": 6000,
-        "PrecioCobrar": 6000,
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -4434,10 +4449,10 @@
         "Cliente": "ALFOMBRA",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "PrecioPagar": 6000,
-        "PrecioCobrar": 6000,
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -4449,10 +4464,10 @@
         "Cliente": "ALFOMBRA",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "PrecioPagar": 6000,
-        "PrecioCobrar": 6000,
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -4464,10 +4479,10 @@
         "Cliente": "ALFOMBRA",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "PrecioPagar": 6024,
-        "PrecioCobrar": 6024,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -4479,10 +4494,10 @@
         "Cliente": "ALFOMBRA",
         "Zona": "ZONA NORTE",
         "Localidad": "Malvinas Argentinas",
-        "PrecioPagar": 8300,
-        "PrecioCobrar": 8300,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -4494,8 +4509,188 @@
         "Cliente": "ALFOMBRA",
         "Zona": "ZONA SUR",
         "Localidad": "Esteban Echeverria",
-        "PrecioPagar": 8300,
-        "PrecioCobrar": 8300,
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 11,
+        "Fecha": "12/03/2025",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Pilar",
+        "PrecioPagar": 9440,
+        "PrecioCobrar": 9440,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 12,
+        "Fecha": "17/03/2025",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA NORTE",
+        "Localidad": "San Isidro",
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 11,
+        "Fecha": "22/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA SUR",
+        "Localidad": "Lomas de Zamora",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 11,
+        "Fecha": "22/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA SUR",
+        "Localidad": "Quilmes",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 11,
+        "Fecha": "15/03/2025",
+        "Envio": "PLEX",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
+        "Pagado": "NO",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 11,
+        "Fecha": "15/03/2025",
+        "Envio": "PLEX",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
+        "Pagado": "NO",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 11,
+        "Fecha": "15/03/2025",
+        "Envio": "KEVIN",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
+        "Pagado": "NO",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 12,
+        "Fecha": "17/03/2025",
+        "Envio": "PLEX",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 12,
+        "Fecha": "17/03/2025",
+        "Envio": "PLEX",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA NORTE",
+        "Localidad": "San Martin",
+        "PrecioPagar": 3785,
+        "PrecioCobrar": 3785,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 12,
+        "Fecha": "17/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 12,
+        "Fecha": "17/03/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA SUR",
+        "Localidad": "La Plata",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 12,
+        "Fecha": "17/03/2025",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA NORTE",
+        "Localidad": "San Isidro",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
         "Pagado": "NO",
         "Cobrado": "NO"
     }
