@@ -4693,5 +4693,50 @@
         "PrecioCobrar": 6024,
         "Pagado": "NO",
         "Cobrado": "NO"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 12,
+        "Fecha": "18/03/2025",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Pilar",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 12,
+        "Fecha": "18/03/2025",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6024,
+        "PrecioCobrar": 6024,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 12,
+        "Fecha": "19/03/2025",
+        "Envio": "PLEX",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]
