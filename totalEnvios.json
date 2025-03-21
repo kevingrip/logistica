@@ -4738,5 +4738,50 @@
         "PrecioCobrar": 6000,
         "Pagado": "NO",
         "Cobrado": "NO"
+    },
+    {
+        "Dia": "Jueves",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 12,
+        "Fecha": "20/03/2025",
+        "Envio": "PLEX",
+        "Cliente": "DVR",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 12,
+        "Fecha": "21/03/2025",
+        "Envio": "PLEX",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6000,
+        "PrecioCobrar": 6000,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 12,
+        "Fecha": "21/03/2025",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6500,
+        "PrecioCobrar": 6500,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]
