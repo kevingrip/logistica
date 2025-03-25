@@ -4530,21 +4530,6 @@
         "Cobrado": "SI"
     },
     {
-        "Dia": "Lunes",
-        "Mes": "03",
-        "Year": "2025",
-        "Semana": 12,
-        "Fecha": "17/03/2025",
-        "Envio": "NP",
-        "Cliente": "DVR",
-        "Zona": "ZONA NORTE",
-        "Localidad": "San Isidro",
-        "PrecioPagar": 6175,
-        "PrecioCobrar": 6175,
-        "Pagado": "NO",
-        "Cobrado": "NO"
-    },
-    {
         "Dia": "Sabado",
         "Mes": "03",
         "Year": "2025",
