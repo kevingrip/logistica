@@ -4632,7 +4632,7 @@
         "PrecioPagar": 6500,
         "PrecioCobrar": 6500,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -4647,7 +4647,7 @@
         "PrecioPagar": 3880,
         "PrecioCobrar": 3880,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -4661,8 +4661,8 @@
         "Localidad": "CABA",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -4676,8 +4676,8 @@
         "Localidad": "La Plata",
         "PrecioPagar": 9440,
         "PrecioCobrar": 9440,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -4737,7 +4737,7 @@
         "PrecioPagar": 6500,
         "PrecioCobrar": 6500,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -4767,7 +4767,7 @@
         "PrecioPagar": 6500,
         "PrecioCobrar": 6500,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -4782,7 +4782,7 @@
         "PrecioPagar": 6500,
         "PrecioCobrar": 6500,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Sabado",
@@ -4797,7 +4797,7 @@
         "PrecioPagar": 6500,
         "PrecioCobrar": 6500,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Sabado",
@@ -4811,8 +4811,8 @@
         "Localidad": "Quilmes",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Sabado",
@@ -4826,8 +4826,8 @@
         "Localidad": "Moron",
         "PrecioPagar": 3880,
         "PrecioCobrar": 3880,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Sabado",
@@ -4841,7 +4841,7 @@
         "Localidad": "Ezeiza",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     }
 ]
