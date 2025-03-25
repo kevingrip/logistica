@@ -63,8 +63,8 @@ def nuevoViaje ():
             localidadDefinida = easygui.buttonbox("Elija una Localidad",choices=locality)
         else:
             localidadDefinida='CABA'
-            precioPagar = 6024
-            precioCobrar = 6024
+            precioPagar = 6175
+            precioCobrar = 6175
 
         if localidadDefinida!='CABA':
             for item in zone[zonaDefinida]:
@@ -83,8 +83,8 @@ def nuevoViaje ():
                     precioCobrar = 6500
             else: 
                 if localidadDefinida in ("CABA","San Miguel"): 
-                    precioPagar=6000
-                    precioCobrar=6000
+                    precioPagar=6500
+                    precioCobrar=6500
                 elif localidadDefinida in ("Tres De Febrero"):
                     precioPagar=3880
                     precioCobrar=3880
