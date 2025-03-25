@@ -2,252 +2,252 @@
     "ZONA NORTE": [
         {
             "LOCALIDAD": "Malvinas Argentinas",
-            "PRECIO_NP": 8300,
-            "PRECIO_CHAPA": 8300,
+            "PRECIO_NP": 8500,
+            "PRECIO_CHAPA": 8500,
             "CORDON": 3
         },
         {
             "LOCALIDAD": "Del Viso",
-            "PRECIO_NP": 8500,
-            "PRECIO_CHAPA": 9900,
+            "PRECIO_NP": 9440,
+            "PRECIO_CHAPA": 10600,
             "CORDON": 4
         },
         {
             "LOCALIDAD": "Derqui",
-            "PRECIO_NP": 8500,
-            "PRECIO_CHAPA": 9900,
+            "PRECIO_NP": 9440,
+            "PRECIO_CHAPA": 10600,
             "CORDON": 4
         },
         {
             "LOCALIDAD": "Escobar",
-            "PRECIO_NP": 8500,
-            "PRECIO_CHAPA": 9900,
+            "PRECIO_NP": 9440,
+            "PRECIO_CHAPA": 10600,
             "CORDON": 4
         },
         {
             "LOCALIDAD": "General Rodriguez",
-            "PRECIO_NP": 8500,
-            "PRECIO_CHAPA": 9900,
+            "PRECIO_NP": 9440,
+            "PRECIO_CHAPA": 10600,
             "CORDON": 4
         },
         {
             "LOCALIDAD": "Ingeniero Maschwitz",
-            "PRECIO_NP": 8500,
-            "PRECIO_CHAPA": 9900,
+            "PRECIO_NP": 9440,
+            "PRECIO_CHAPA": 10600,
             "CORDON": 4
         },
         {
             "LOCALIDAD": "Lujan",
-            "PRECIO_NP": 8500,
-            "PRECIO_CHAPA": 9900,
+            "PRECIO_NP": 9440,
+            "PRECIO_CHAPA": 10600,
             "CORDON": 4
         },
         {
             "LOCALIDAD": "Nordelta",
-            "PRECIO_NP": 8500,
-            "PRECIO_CHAPA": 9900,
+            "PRECIO_NP": 9440,
+            "PRECIO_CHAPA": 10600,
             "CORDON": 4
         },
         {
             "LOCALIDAD": "Pilar",
-            "PRECIO_NP": 8500,
-            "PRECIO_CHAPA": 9900,
+            "PRECIO_NP": 9440,
+            "PRECIO_CHAPA": 10600,
             "CORDON": 4
         },
         {
             "LOCALIDAD": "Villa Rosa",
-            "PRECIO_NP": 8500,
-            "PRECIO_CHAPA": 9900,
+            "PRECIO_NP": 9440,
+            "PRECIO_CHAPA": 10600,
             "CORDON": 4
         },
         {
             "LOCALIDAD": "Garin",
-            "PRECIO_NP": 8500,
-            "PRECIO_CHAPA": 9900,
+            "PRECIO_NP": 9440,
+            "PRECIO_CHAPA": 10600,
             "CORDON": 4
         },
         {
             "LOCALIDAD": "San Fernando",
-            "PRECIO_NP": 6024,
-            "PRECIO_CHAPA": 6024,
+            "PRECIO_NP": 6175,
+            "PRECIO_CHAPA": 6175,
             "CORDON": 2
         },
         {
             "LOCALIDAD": "San Isidro",
-            "PRECIO_NP": 6024,
-            "PRECIO_CHAPA": 6024,
+            "PRECIO_NP": 6175,
+            "PRECIO_CHAPA": 6175,
             "CORDON": 2
         },
         {
             "LOCALIDAD": "San Martin",
-            "PRECIO_NP": 3785,
-            "PRECIO_CHAPA": 3785,
+            "PRECIO_NP": 3880,
+            "PRECIO_CHAPA": 3880,
             "CORDON": 1
         },
         {
             "LOCALIDAD": "Tigre",
-            "PRECIO_NP": 8300,
-            "PRECIO_CHAPA": 8300,
+            "PRECIO_NP": 8500,
+            "PRECIO_CHAPA": 8500,
             "CORDON": 3
         },
         {
             "LOCALIDAD": "Vicente Lopez",
-            "PRECIO_NP": 6024,
-            "PRECIO_CHAPA": 6024,
+            "PRECIO_NP": 6175,
+            "PRECIO_CHAPA": 6175,
             "CORDON": 2
         }
     ],
     "ZONA SUR": [
         {
             "LOCALIDAD": "Berisso",
-            "PRECIO_NP": 8500,
-            "PRECIO_CHAPA": 9900,
+            "PRECIO_NP": 9440,
+            "PRECIO_CHAPA": 10600,
             "CORDON": 4
         },
         {
             "LOCALIDAD": "Canuelas",
-            "PRECIO_NP": 8500,
-            "PRECIO_CHAPA": 9900,
+            "PRECIO_NP": 9440,
+            "PRECIO_CHAPA": 10600,
             "CORDON": 4
         },
         {
             "LOCALIDAD": "Ensenada",
-            "PRECIO_NP": 8500,
-            "PRECIO_CHAPA": 9900,
+            "PRECIO_NP": 9440,
+            "PRECIO_CHAPA": 10600,
             "CORDON": 4
         },
         {
             "LOCALIDAD": "Guernica",
-            "PRECIO_NP": 8500,
-            "PRECIO_CHAPA": 9900,
+            "PRECIO_NP": 9440,
+            "PRECIO_CHAPA": 10600,
             "CORDON": 4
         },
         {
             "LOCALIDAD": "La Plata",
-            "PRECIO_NP": 8500,
-            "PRECIO_CHAPA": 9900,
+            "PRECIO_NP": 9440,
+            "PRECIO_CHAPA": 10600,
             "CORDON": 4
         },
         {
             "LOCALIDAD": "Almirante Brown",
-            "PRECIO_NP": 8300,
-            "PRECIO_CHAPA": 8300,
+            "PRECIO_NP": 8500,
+            "PRECIO_CHAPA": 8500,
             "CORDON": 3
         },
         {
             "LOCALIDAD": "Avellaneda",
-            "PRECIO_NP": 8300,
-            "PRECIO_CHAPA": 8300,
+            "PRECIO_NP": 8500,
+            "PRECIO_CHAPA": 8500,
             "CORDON": 3
         },
         {
             "LOCALIDAD": "Berazategui",
-            "PRECIO_NP": 8300,
-            "PRECIO_CHAPA": 8300,
+            "PRECIO_NP": 8500,
+            "PRECIO_CHAPA": 8500,
             "CORDON": 3
         },
         {
             "LOCALIDAD": "Esteban Echeverria",
-            "PRECIO_NP": 8300,
-            "PRECIO_CHAPA": 8300,
+            "PRECIO_NP": 8500,
+            "PRECIO_CHAPA": 8500,
             "CORDON": 3
         },
         {
             "LOCALIDAD": "Ezeiza",
-            "PRECIO_NP": 8300,
-            "PRECIO_CHAPA": 8300,
+            "PRECIO_NP": 8500,
+            "PRECIO_CHAPA": 8500,
             "CORDON": 3
         },
         {
             "LOCALIDAD": "Florencio Varela",
-            "PRECIO_NP": 8300,
-            "PRECIO_CHAPA": 8300,
+            "PRECIO_NP": 8500,
+            "PRECIO_CHAPA": 8500,
             "CORDON": 3
         },
         {
             "LOCALIDAD": "Lanus",
-            "PRECIO_NP": 8300,
-            "PRECIO_CHAPA": 8300,
+            "PRECIO_NP": 8500,
+            "PRECIO_CHAPA": 8500,
             "CORDON": 3
         },
         {
             "LOCALIDAD": "Lomas de Zamora",
-            "PRECIO_NP": 8300,
-            "PRECIO_CHAPA": 8300,
+            "PRECIO_NP": 8500,
+            "PRECIO_CHAPA": 8500,
             "CORDON": 3
         },
         {
             "LOCALIDAD": "Quilmes",
-            "PRECIO_NP": 8300,
-            "PRECIO_CHAPA": 8300,
+            "PRECIO_NP": 8500,
+            "PRECIO_CHAPA": 8500,
             "CORDON": 3
         }
     ],
     "ZONA OESTE": [
         {
             "LOCALIDAD": "Hurlingham",
-            "PRECIO_NP": 3785,
-            "PRECIO_CHAPA": 3785,
+            "PRECIO_NP": 3880,
+            "PRECIO_CHAPA": 3880,
             "CORDON": 1
         },
         {
             "LOCALIDAD": "Ituzaingo",
-            "PRECIO_NP": 6024,
-            "PRECIO_CHAPA": 6024,
+            "PRECIO_NP": 6175,
+            "PRECIO_CHAPA": 6175,
             "CORDON": 2
         },
         {
             "LOCALIDAD": "Jose C Paz",
-            "PRECIO_NP": 8300,
-            "PRECIO_CHAPA": 8300,
+            "PRECIO_NP": 8500,
+            "PRECIO_CHAPA": 8500,
             "CORDON": 3
         },
         {
             "LOCALIDAD": "La Matanza Norte",
-            "PRECIO_NP": 6024,
-            "PRECIO_CHAPA": 6024,
+            "PRECIO_NP": 6175,
+            "PRECIO_CHAPA": 6175,
             "CORDON": 2
         },
         {
             "LOCALIDAD": "La Matanza Sur",
-            "PRECIO_NP": 8300,
-            "PRECIO_CHAPA": 8300,
+            "PRECIO_NP": 8500,
+            "PRECIO_CHAPA": 8500,
             "CORDON": 3
         },
         {
             "LOCALIDAD": "Merlo",
-            "PRECIO_NP": 8300,
-            "PRECIO_CHAPA": 8300,
+            "PRECIO_NP": 8500,
+            "PRECIO_CHAPA": 8500,
             "CORDON": 3
         },
         {
             "LOCALIDAD": "Moreno",
-            "PRECIO_NP": 8300,
-            "PRECIO_CHAPA": 8300,
+            "PRECIO_NP": 8500,
+            "PRECIO_CHAPA": 8500,
             "CORDON": 3
         },
         {
             "LOCALIDAD": "Moron",
-            "PRECIO_NP": 3785,
-            "PRECIO_CHAPA": 3785,
+            "PRECIO_NP": 3880,
+            "PRECIO_CHAPA": 3880,
             "CORDON": 1
         },
         {
             "LOCALIDAD": "San Miguel",
-            "PRECIO_NP": 6024,
-            "PRECIO_CHAPA": 6024,
+            "PRECIO_NP": 6175,
+            "PRECIO_CHAPA": 6175,
             "CORDON": 2
         },
         {
             "LOCALIDAD": "CABA",
-            "PRECIO_NP": 6024,
-            "PRECIO_CHAPA": 6024,
+            "PRECIO_NP": 6175,
+            "PRECIO_CHAPA": 6175,
             "CORDON": 2
         },
         {
             "LOCALIDAD": "Tres De Febrero",
-            "PRECIO_NP": 3785,
-            "PRECIO_CHAPA": 3785,
+            "PRECIO_NP": 3880,
+            "PRECIO_CHAPA": 3880,
             "CORDON": 1
         }
     ]
