@@ -81,6 +81,10 @@ def nuevoViaje ():
                 if localidadDefinida in ("CABA","San Miguel"): 
                     precioPagar=6500
                     precioCobrar = 6500
+            if cliente == "ALFOMBRA":
+                if localidadDefinida in ("CABA","San Miguel"): 
+                    precioPagar=7000
+                    precioCobrar = 7000
             else: 
                 if localidadDefinida in ("CABA","San Miguel"): 
                     precioPagar=6500
