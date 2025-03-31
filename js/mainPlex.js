@@ -22,6 +22,7 @@ document.addEventListener('DOMContentLoaded', function(){
         function actualizarSemana(){
             nroSemana.textContent = semanaSeleccionada
             mostrarDatos(filtro2025,'PLEX','renderPLEX',semanaSeleccionada);
+            mostrarDatos(filtro2025,'PLEX','renderNP',semanaSeleccionada);
             if (semanaMax > semanaSeleccionada ) {
                 btnSig.style.visibility = 'visible';
             } else {
@@ -66,6 +67,7 @@ document.addEventListener('DOMContentLoaded', function(){
         console.log("Semanas disponibles:", semanasDisponibles);
 
         mostrarDatos(filtro2025,'PLEX','renderPLEX',semanaSeleccionada);    
+        mostrarDatos(filtro2025,'PLEX','renderNP',semanaSeleccionada);
 
     }
     
@@ -75,7 +77,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         datosTabla.innerHTML='';
 
-        let datosFiltrados = datos.filter(empresa => empresa.Envio === env)
+        let datosFiltrados = render=='renderNP'? datos.filter(empresa => empresa.Envio === env && empresa.Cliente != "ALFOMBRA") : datos.filter(empresa => empresa.Envio === env && empresa.Cliente === "ALFOMBRA")
 
         datosFiltrados = datosFiltrados.filter(dato => dato.Semana === semanaSeleccionada);
 
@@ -167,6 +169,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         botonSemanaDisponible(data);
         mostrarDatos(data,'PLEX','renderPLEX',semanaSeleccionada);
+        mostrarDatos(data,'PLEX','renderNP',semanaSeleccionada);
                     
     })
     .catch(error => console.error('Error al cargar el archivo JSON', error))
