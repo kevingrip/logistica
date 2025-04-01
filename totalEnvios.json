@@ -5289,8 +5289,8 @@
         "Cliente": "DVR",
         "Zona": "ZONA OESTE",
         "Localidad": "San Miguel",
-        "PrecioPagar": 6500,
-        "PrecioCobrar": 6500,
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
         "Pagado": "NO",
         "Cobrado": "NO"
     }
