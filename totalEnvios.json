@@ -5263,5 +5263,35 @@
         "PrecioCobrar": 7000,
         "Pagado": "NO",
         "Cobrado": "SI"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 14,
+        "Fecha": "01/04/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA SUR",
+        "Localidad": "Ensenada",
+        "PrecioPagar": 9443,
+        "PrecioCobrar": 9443,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Martes",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 14,
+        "Fecha": "01/04/2025",
+        "Envio": "PLEX",
+        "Cliente": "DVR",
+        "Zona": "ZONA OESTE",
+        "Localidad": "San Miguel",
+        "PrecioPagar": 6500,
+        "PrecioCobrar": 6500,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]
