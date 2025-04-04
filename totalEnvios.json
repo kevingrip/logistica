@@ -5323,5 +5323,50 @@
         "PrecioCobrar": 6175,
         "Pagado": "NO",
         "Cobrado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 14,
+        "Fecha": "31/03/2025",
+        "Envio": "PLEX",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 7000,
+        "PrecioCobrar": 7000,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 14,
+        "Fecha": "31/03/2025",
+        "Envio": "PLEX",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 7000,
+        "PrecioCobrar": 7000,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 14,
+        "Fecha": "31/03/2025",
+        "Envio": "PLEX",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 7000,
+        "PrecioCobrar": 7000,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]
