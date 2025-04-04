@@ -5293,5 +5293,35 @@
         "PrecioCobrar": 6175,
         "Pagado": "NO",
         "Cobrado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 14,
+        "Fecha": "04/04/2025",
+        "Envio": "NP",
+        "Cliente": "DVR",
+        "Zona": "ZONA OESTE",
+        "Localidad": "Tres De Febrero",
+        "PrecioPagar": 3880,
+        "PrecioCobrar": 3880,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Viernes",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 14,
+        "Fecha": "04/04/2025",
+        "Envio": "PLEX",
+        "Cliente": "DVR",
+        "Zona": "ZONA NORTE",
+        "Localidad": "Vicente Lopez",
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]
