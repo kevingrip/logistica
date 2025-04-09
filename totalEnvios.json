@@ -5291,8 +5291,8 @@
         "Localidad": "San Miguel",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -5306,8 +5306,8 @@
         "Localidad": "Tres De Febrero",
         "PrecioPagar": 3880,
         "PrecioCobrar": 3880,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -5321,22 +5321,7 @@
         "Localidad": "Vicente Lopez",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
-        "Cobrado": "NO"
-    },
-    {
-        "Dia": "Lunes",
-        "Mes": "03",
-        "Year": "2025",
-        "Semana": 14,
-        "Fecha": "31/03/2025",
-        "Envio": "PLEX",
-        "Cliente": "ALFOMBRA",
-        "Zona": "CABA",
-        "Localidad": "CABA",
-        "PrecioPagar": 7000,
-        "PrecioCobrar": 7000,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -5351,7 +5336,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -5366,7 +5351,22 @@
         "Localidad": "CABA",
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
-        "Pagado": "NO",
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "03",
+        "Year": "2025",
+        "Semana": 14,
+        "Fecha": "31/03/2025",
+        "Envio": "PLEX",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 7000,
+        "PrecioCobrar": 7000,
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -5426,7 +5426,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -5606,6 +5606,111 @@
         "Localidad": "CABA",
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 15,
+        "Fecha": "09/04/2025",
+        "Envio": "PLEX",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 7000,
+        "PrecioCobrar": 7000,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 15,
+        "Fecha": "09/04/2025",
+        "Envio": "PLEX",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 7000,
+        "PrecioCobrar": 7000,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 15,
+        "Fecha": "09/04/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA SUR",
+        "Localidad": "Berisso",
+        "PrecioPagar": 9443,
+        "PrecioCobrar": 9443,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 15,
+        "Fecha": "09/04/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA OESTE",
+        "Localidad": "La Matanza Norte",
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 15,
+        "Fecha": "09/04/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA OESTE",
+        "Localidad": "La Matanza Norte",
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 15,
+        "Fecha": "09/04/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA SUR",
+        "Localidad": "La Plata",
+        "PrecioPagar": 9443,
+        "PrecioCobrar": 9443,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Miercoles",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 15,
+        "Fecha": "09/04/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA SUR",
+        "Localidad": "Ezeiza",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
         "Pagado": "NO",
         "Cobrado": "NO"
     }
