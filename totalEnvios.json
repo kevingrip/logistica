@@ -5471,8 +5471,8 @@
         "Localidad": "Quilmes",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -5486,8 +5486,8 @@
         "Localidad": "Ituzaingo",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -5501,8 +5501,8 @@
         "Localidad": "Tres De Febrero",
         "PrecioPagar": 3880,
         "PrecioCobrar": 3880,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -5517,7 +5517,7 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -5532,7 +5532,7 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -5547,7 +5547,7 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -5561,8 +5561,8 @@
         "Localidad": "Quilmes",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -5576,8 +5576,8 @@
         "Localidad": "Malvinas Argentinas",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -5592,7 +5592,7 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -5607,7 +5607,7 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -5622,7 +5622,7 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -5637,7 +5637,7 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -5651,8 +5651,8 @@
         "Localidad": "Berisso",
         "PrecioPagar": 9443,
         "PrecioCobrar": 9443,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -5666,8 +5666,8 @@
         "Localidad": "La Matanza Norte",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -5681,8 +5681,8 @@
         "Localidad": "La Matanza Norte",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -5696,8 +5696,8 @@
         "Localidad": "La Plata",
         "PrecioPagar": 9443,
         "PrecioCobrar": 9443,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -5711,8 +5711,8 @@
         "Localidad": "Ezeiza",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -5726,8 +5726,8 @@
         "Localidad": "La Plata",
         "PrecioPagar": 9443,
         "PrecioCobrar": 9443,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -5741,8 +5741,8 @@
         "Localidad": "Lomas de Zamora",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -5756,8 +5756,8 @@
         "Localidad": "CABA",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -5771,8 +5771,8 @@
         "Localidad": "CABA",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -5786,8 +5786,8 @@
         "Localidad": "CABA",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -5801,8 +5801,8 @@
         "Localidad": "Del Viso",
         "PrecioPagar": 9443,
         "PrecioCobrar": 9443,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -5862,7 +5862,7 @@
         "PrecioPagar": 9443,
         "PrecioCobrar": 10600,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -5877,7 +5877,7 @@
         "PrecioPagar": 9443,
         "PrecioCobrar": 10600,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -5892,7 +5892,7 @@
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -5906,8 +5906,8 @@
         "Localidad": "Canuelas",
         "PrecioPagar": 9443,
         "PrecioCobrar": 9443,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -5921,8 +5921,8 @@
         "Localidad": "La Matanza Norte",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -5936,6 +5936,111 @@
         "Localidad": "Lomas de Zamora",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
+        "Pagado": "NO",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 15,
+        "Fecha": "12/04/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA OESTE",
+        "Localidad": "Ituzaingo",
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 16,
+        "Fecha": "14/04/2025",
+        "Envio": "KEVIN",
+        "Cliente": "DVR",
+        "Zona": "ZONA OESTE",
+        "Localidad": "Tres De Febrero",
+        "PrecioPagar": 3880,
+        "PrecioCobrar": 3880,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 16,
+        "Fecha": "14/04/2025",
+        "Envio": "NP",
+        "Cliente": "CHAPA",
+        "Zona": "ZONA SUR",
+        "Localidad": "Almirante Brown",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 16,
+        "Fecha": "14/04/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA SUR",
+        "Localidad": "Avellaneda",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 16,
+        "Fecha": "14/04/2025",
+        "Envio": "PLEX",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 7000,
+        "PrecioCobrar": 7000,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 16,
+        "Fecha": "14/04/2025",
+        "Envio": "PLEX",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 7000,
+        "PrecioCobrar": 7000,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 16,
+        "Fecha": "14/04/2025",
+        "Envio": "PLEX",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 7000,
+        "PrecioCobrar": 7000,
         "Pagado": "NO",
         "Cobrado": "NO"
     }

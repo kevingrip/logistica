@@ -3,11 +3,9 @@ document.addEventListener('DOMContentLoaded', function(){
 
 
     function botonSemanaDisponible(data){
-
-        const datos2025 = data.filter(dato=> dato.Year==="2025");
-
+        const filtro2025 = data.filter(data=> data.Year==="2025")
         const semanasDisponibles=new Set();
-        datos2025.forEach(sem=>{
+        filtro2025.forEach(sem=>{
             const semana = sem.Semana
             semanasDisponibles.add(semana);
             // if (sem.Mes === mesSeleccionado) {
@@ -23,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         function actualizarSemana(){
             nroSemana.textContent = semanaSeleccionada
-            mostrarDatos(datos2025,'ALFOMBRA','renderAlfombra',semanaSeleccionada);
+            mostrarDatos(filtro2025,'KEVIN','renderKevin',semanaSeleccionada);
             if (semanaMax > semanaSeleccionada ) {
                 btnSig.style.visibility = 'visible';
             } else {
@@ -67,7 +65,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         console.log("Semanas disponibles:", semanasDisponibles);
 
-        mostrarDatos(datos2025,'ALFOMBRA','renderAlfombra',semanaSeleccionada);    
+        mostrarDatos(filtro2025,'KEVIN','renderKevin',semanaSeleccionada);    
 
     }
     
@@ -77,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         datosTabla.innerHTML='';
 
-        let datosFiltrados = datos.filter(empresa => empresa.Cliente === env)
+        let datosFiltrados = datos.filter(empresa => empresa.Envio === env)
 
         datosFiltrados = datosFiltrados.filter(dato => dato.Semana === semanaSeleccionada);
 
@@ -107,11 +105,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         const vacio4 = document.createElement('td')
         vacio4.textContent= '' 
-        vacio4.classList.add('totalprecio')   
-        
-        const vacio5 = document.createElement('td')
-        vacio5.textContent= '' 
-        vacio5.classList.add('totalprecio')
+        vacio4.classList.add('totalprecio')              
         
 
         datosFiltrados.forEach(dato => {
@@ -130,10 +124,6 @@ document.addEventListener('DOMContentLoaded', function(){
             const cliente = document.createElement('td')
             cliente.textContent= dato.Cliente
             fila.appendChild(cliente);
-            
-            const envio = document.createElement('td')
-            envio.textContent= dato.Envio
-            fila.appendChild(envio)
 
             const partido = document.createElement('td')
             partido.textContent= dato.Localidad
@@ -158,8 +148,6 @@ document.addEventListener('DOMContentLoaded', function(){
                 vacio.style.backgroundColor = '#39ff14';
                 vacio2.style.backgroundColor = '#39ff14';
                 vacio4.style.backgroundColor = '#39ff14';
-                vacio5.style.backgroundColor = '#39ff14';
-
             }
         
 
@@ -168,7 +156,6 @@ document.addEventListener('DOMContentLoaded', function(){
             datosTabla.appendChild(vacio)
             datosTabla.appendChild(vacio2)
             datosTabla.appendChild(vacio4)
-            datosTabla.appendChild(vacio5)
             datosTabla.appendChild(totalPrecio)
             
         });
@@ -179,7 +166,7 @@ document.addEventListener('DOMContentLoaded', function(){
     .then(data => {
 
         botonSemanaDisponible(data);
-        mostrarDatos(data,'ALFOMBRA','renderAlfombra',semanaSeleccionada);
+        mostrarDatos(data,'KEVIN','renderKevin',semanaSeleccionada);
                     
     })
     .catch(error => console.error('Error al cargar el archivo JSON', error))
