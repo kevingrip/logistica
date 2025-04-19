@@ -6208,5 +6208,20 @@
         "PrecioCobrar": 6175,
         "Pagado": "NO",
         "Cobrado": "NO"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 16,
+        "Fecha": "19/04/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA SUR",
+        "Localidad": "Avellaneda",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]
