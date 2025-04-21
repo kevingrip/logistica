@@ -6223,5 +6223,20 @@
         "PrecioCobrar": 8500,
         "Pagado": "SI",
         "Cobrado": "SI"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 17,
+        "Fecha": "21/04/2025",
+        "Envio": "PLEX",
+        "Cliente": "FIGUS",
+        "Zona": "ZONA NORTE",
+        "Localidad": "San Martin",
+        "PrecioPagar": 3880,
+        "PrecioCobrar": 3880,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]
