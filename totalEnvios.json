@@ -5996,8 +5996,8 @@
         "Localidad": "Avellaneda",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -6012,7 +6012,7 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -6027,7 +6027,7 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -6042,7 +6042,7 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -6056,8 +6056,8 @@
         "Localidad": "La Plata",
         "PrecioPagar": 9443,
         "PrecioCobrar": 9443,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -6071,8 +6071,8 @@
         "Localidad": "Merlo",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -6087,7 +6087,7 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -6131,8 +6131,8 @@
         "Localidad": "Ituzaingo",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -6146,8 +6146,8 @@
         "Localidad": "Avellaneda",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -6162,7 +6162,7 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -6206,8 +6206,8 @@
         "Localidad": "La Matanza Norte",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Sabado",
@@ -6221,7 +6221,7 @@
         "Localidad": "Avellaneda",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     }
 ]
