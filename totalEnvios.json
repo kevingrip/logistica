@@ -6373,5 +6373,20 @@
         "PrecioCobrar": 7000,
         "Pagado": "NO",
         "Cobrado": "SI"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "04",
+        "Year": "2025",
+        "Semana": 18,
+        "Fecha": "28/04/2025",
+        "Envio": "PLEX",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 7000,
+        "PrecioCobrar": 7000,
+        "Pagado": "NO",
+        "Cobrado": "NO"
     }
 ]
