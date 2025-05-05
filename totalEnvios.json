@@ -6387,7 +6387,7 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -6401,7 +6401,7 @@
         "Localidad": "General Rodriguez",
         "PrecioPagar": 9443,
         "PrecioCobrar": 9443,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -6416,8 +6416,8 @@
         "Localidad": "CABA",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
-        "Cobrado": "NO"
+        "Pagado": "SI",
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -6431,7 +6431,7 @@
         "Localidad": "San Fernando",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "NO"
     },
     {
@@ -6447,7 +6447,7 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -6462,6 +6462,81 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "05",
+        "Year": "2025",
+        "Semana": 18,
+        "Fecha": "03/05/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA SUR",
+        "Localidad": "Lanus",
+        "PrecioPagar": 8500,
+        "PrecioCobrar": 8500,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "05",
+        "Year": "2025",
+        "Semana": 18,
+        "Fecha": "03/05/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA OESTE",
+        "Localidad": "La Matanza Norte",
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "05",
+        "Year": "2025",
+        "Semana": 18,
+        "Fecha": "03/05/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "ZONA NORTE",
+        "Localidad": "San Martin",
+        "PrecioPagar": 3880,
+        "PrecioCobrar": 3880,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "05",
+        "Year": "2025",
+        "Semana": 18,
+        "Fecha": "03/05/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
+        "Pagado": "SI",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Sabado",
+        "Mes": "05",
+        "Year": "2025",
+        "Semana": 18,
+        "Fecha": "03/05/2025",
+        "Envio": "NUESTRO",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 6175,
+        "PrecioCobrar": 6175,
+        "Pagado": "SI",
+        "Cobrado": "SI"
     }
 ]
