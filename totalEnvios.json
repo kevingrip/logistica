@@ -9987,7 +9987,7 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Lunes",
@@ -10002,7 +10002,7 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -10017,7 +10017,7 @@
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -10032,7 +10032,7 @@
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Jueves",
@@ -10047,7 +10047,7 @@
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -10062,7 +10062,7 @@
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Viernes",
@@ -10077,7 +10077,7 @@
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Sabado",
@@ -10092,7 +10092,7 @@
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Sabado",
@@ -10107,7 +10107,7 @@
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Sabado",
@@ -10122,7 +10122,7 @@
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Sabado",
@@ -10137,7 +10137,7 @@
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Sabado",
@@ -10152,7 +10152,7 @@
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -10167,7 +10167,7 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Martes",
@@ -10182,7 +10182,7 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -10197,7 +10197,7 @@
         "PrecioPagar": 7000,
         "PrecioCobrar": 7000,
         "Pagado": "NO",
-        "Cobrado": "NO"
+        "Cobrado": "SI"
     },
     {
         "Dia": "Miercoles",
@@ -10205,6 +10205,51 @@
         "Year": "2025",
         "Semana": 26,
         "Fecha": "25/06/2025",
+        "Envio": "PLEX",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 7000,
+        "PrecioCobrar": 7000,
+        "Pagado": "NO",
+        "Cobrado": "SI"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "06",
+        "Year": "2025",
+        "Semana": 27,
+        "Fecha": "30/06/2025",
+        "Envio": "PLEX",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 7000,
+        "PrecioCobrar": 7000,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "06",
+        "Year": "2025",
+        "Semana": 27,
+        "Fecha": "30/06/2025",
+        "Envio": "PLEX",
+        "Cliente": "ALFOMBRA",
+        "Zona": "CABA",
+        "Localidad": "CABA",
+        "PrecioPagar": 7000,
+        "PrecioCobrar": 7000,
+        "Pagado": "NO",
+        "Cobrado": "NO"
+    },
+    {
+        "Dia": "Lunes",
+        "Mes": "06",
+        "Year": "2025",
+        "Semana": 27,
+        "Fecha": "30/06/2025",
         "Envio": "PLEX",
         "Cliente": "ALFOMBRA",
         "Zona": "CABA",
