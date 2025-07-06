@@ -10575,21 +10575,6 @@
         "Cobrado": "NO"
     },
     {
-        "Dia": "Sabado",
-        "Mes": "07",
-        "Year": "2025",
-        "Semana": 27,
-        "Fecha": "05/07/2025",
-        "Envio": "KEVIN",
-        "Cliente": "ALFOMBRA",
-        "Zona": "CABA",
-        "Localidad": "CABA",
-        "PrecioPagar": 6175,
-        "PrecioCobrar": 6175,
-        "Pagado": "NO",
-        "Cobrado": "NO"
-    },
-    {
         "Dia": "Viernes",
         "Mes": "07",
         "Year": "2025",
