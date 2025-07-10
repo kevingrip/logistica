@@ -10301,7 +10301,7 @@
         "Localidad": "San Martin",
         "PrecioPagar": 3880,
         "PrecioCobrar": 3880,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -10316,7 +10316,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -10331,7 +10331,7 @@
         "Localidad": "Moron",
         "PrecioPagar": 3880,
         "PrecioCobrar": 3880,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -10346,7 +10346,7 @@
         "Localidad": "Moron",
         "PrecioPagar": 3880,
         "PrecioCobrar": 3880,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -10451,7 +10451,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -10586,7 +10586,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -10601,7 +10601,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -10616,7 +10616,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -10631,7 +10631,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -10646,7 +10646,7 @@
         "Localidad": "Malvinas Argentinas",
         "PrecioPagar": 8500,
         "PrecioCobrar": 8500,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
@@ -10661,7 +10661,7 @@
         "Localidad": "CABA",
         "PrecioPagar": 6175,
         "PrecioCobrar": 6175,
-        "Pagado": "NO",
+        "Pagado": "SI",
         "Cobrado": "SI"
     },
     {
