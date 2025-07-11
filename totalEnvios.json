@@ -11049,8 +11049,8 @@
         "Cliente": "ALFOMBRA",
         "Zona": "ZONA NORTE",
         "Localidad": "Vicente Lopez",
-        "PrecioPagar": 6175,
-        "PrecioCobrar": 6175,
+        "PrecioPagar": 7000,
+        "PrecioCobrar": 7000,
         "Pagado": "NO",
         "Cobrado": "NO"
     },
@@ -11064,8 +11064,8 @@
         "Cliente": "ALFOMBRA",
         "Zona": "ZONA NORTE",
         "Localidad": "Vicente Lopez",
-        "PrecioPagar": 6175,
-        "PrecioCobrar": 6175,
+        "PrecioPagar": 7000,
+        "PrecioCobrar": 7000,
         "Pagado": "NO",
         "Cobrado": "NO"
     },
@@ -11079,8 +11079,8 @@
         "Cliente": "ALFOMBRA",
         "Zona": "ZONA NORTE",
         "Localidad": "Vicente Lopez",
-        "PrecioPagar": 6175,
-        "PrecioCobrar": 6175,
+        "PrecioPagar": 7000,
+        "PrecioCobrar": 7000,
         "Pagado": "NO",
         "Cobrado": "NO"
     },
@@ -11094,8 +11094,8 @@
         "Cliente": "ALFOMBRA",
         "Zona": "ZONA NORTE",
         "Localidad": "Vicente Lopez",
-        "PrecioPagar": 6175,
-        "PrecioCobrar": 6175,
+        "PrecioPagar": 7000,
+        "PrecioCobrar": 7000,
         "Pagado": "NO",
         "Cobrado": "NO"
     },
@@ -11154,8 +11154,8 @@
         "Cliente": "FIGUS",
         "Zona": "CABA",
         "Localidad": "CABA",
-        "PrecioPagar": 6500,
-        "PrecioCobrar": 6500,
+        "PrecioPagar": 7000,
+        "PrecioCobrar": 7000,
         "Pagado": "NO",
         "Cobrado": "NO"
     },
@@ -11244,8 +11244,8 @@
         "Cliente": "ALFOMBRA",
         "Zona": "ZONA OESTE",
         "Localidad": "Hurlingham",
-        "PrecioPagar": 3880,
-        "PrecioCobrar": 3880,
+        "PrecioPagar": 4249,
+        "PrecioCobrar": 4249,
         "Pagado": "NO",
         "Cobrado": "NO"
     }
