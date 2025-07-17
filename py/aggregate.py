@@ -79,8 +79,8 @@ def nuevoViaje ():
         if canalVenta=="PLEX":
             if cliente == "FIGUS":
                 if localidadDefinida in ("CABA","San Miguel"): 
-                    precioPagar=6500
-                    precioCobrar = 6500
+                    precioPagar=7000
+                    precioCobrar = 7000
             if cliente == "ALFOMBRA":
                 if localidadDefinida in ("CABA","San Miguel"): 
                     precioPagar=7000
